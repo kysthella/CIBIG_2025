@@ -17,7 +17,7 @@ set -euo pipefail                      #######exit on error, undefined variables
 
 STORAGE="storage:/projects/AMRKY/FASTQ_WGS_LABIOGENE/FASTQ"
 WORKPATH="/data/ky/characterization"
-mkdir ${WORKPATH}
+mkdir -p ${WORKPATH}
 cd ${WORKPATH}
 
 ###########################################
@@ -31,22 +31,22 @@ do
 
     echo "Analysis  $BARCODE"
 #Go to path directory
-    cd ${WORKPATH}
+    cd ${OUTDIR}
  
 # retreive data from the storage
     rsync -ravz --progress ${STORAGE}/${FASTQ} .
 
 # Quality Control
     module load nanoplot/1.42.0
-    NanoPlot --fastq ${FASTQ} -o ${OUTDIR}/qc_report -t 16
+    NanoPlot --fastq ${FASTQ} -o  qc_report -t 16
 
 # Assembly
     module load flye/2.9.6-b1802
-    flye --nano-raw ${FASTQ} -o ${OUTDIR}/assembly -t 16
+    flye --nano-raw ${FASTQ} -o assembly -t 16
 
 # Polishing
     module load medaka/2.1.1
-    medaka_consensus -i ${FASTQ} -d ${OUTDIR}/assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0\
-         -o ${OUTDIR}/medaka_out -t 16
+    medaka_consensus -i ${FASTQ} -d ${OUTDIR}/assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
+         -o medaka_out -t 16
 done
-echo"Analysis $BARCODE completed"
+echo "Analysis $BARCODE completed"
