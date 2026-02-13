@@ -24,5 +24,4 @@ For further inquiries or information about the project, please contact the tutor
 - **Ezechiel Bionimian TIBIRI** [ezechiel.tibiri@wave-center.org]
 - **Nènè Sthella KY** [kynenepharm@gmail.com]
 
-repository for git exercises with cibig participants
-This repository contains scripts of cibig training and documentation associated. 
+ 
