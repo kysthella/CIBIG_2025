@@ -51,4 +51,4 @@ do
     
     echo "Analysis $BARCODE completed"
 done
-echo "Analysis $BARCODE completed"
+
