@@ -46,7 +46,7 @@ do
 
 # Polishing
     module load medaka/2.1.1
-    medaka_consensus -i ${FASTQ} -d ${OUTDIR}/assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
+    medaka_consensus -i ${FASTQ} -d assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
          -o medaka_out -t 16
 done
 echo "Analysis $BARCODE completed"
