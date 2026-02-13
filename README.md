@@ -21,8 +21,8 @@ Participants will gain:
 
 ## Contact Information
 For further inquiries or information about the project, please contact the tutors or project partners:
-**Ezechiel Bionimian TIBIRI** [ezechiel.tibiri@wave-center.org]
-**Nènè Sthella KY** [kynenepharm@gmail.com]
+- **Ezechiel Bionimian TIBIRI** [ezechiel.tibiri@wave-center.org]
+- **Nènè Sthella KY** [kynenepharm@gmail.com]
 
 repository for git exercises with cibig participants
 This repository contains scripts of cibig training and documentation associated. 
