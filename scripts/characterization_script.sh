@@ -22,7 +22,11 @@ mkdir -p ${WORKPATH}
 cd ${WORKPATH}
 
 ###########################################
-# 
+##### Modules load
+module load nanoplot/1.42.0
+module load flye/2.9.6-b1802
+module load medaka/2.1.1
+##### 
 for i in {1..39}
 do
     BARCODE=barcode$(printf "%02d" $i)
@@ -38,15 +42,15 @@ do
     rsync -ravz --progress ${STORAGE}/${FASTQ} .
 
 # Quality Control
-    module load nanoplot/1.42.0
+    
     NanoPlot --fastq ${FASTQ} -o  qc_report -t 16
 
 # Assembly
-    module load flye/2.9.6-b1802
+    
     flye --nano-hq ${FASTQ} -o assembly -t 16
 
 # Polishing
-    module load medaka/2.1.1
+    
     medaka_consensus -i ${FASTQ} -d assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
          -o medaka_out -t 16
 
