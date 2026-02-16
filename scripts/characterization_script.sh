@@ -16,6 +16,7 @@ set -euo pipefail                      #######exit on error, undefined variables
 ####### Definition of the variables for the storagepath, workpath and creation of the directory
 
 STORAGE="storage:/projects/AMRKY/FASTQ_WGS_LABIOGENE/FASTQ"
+ASSEMBLIES="storage:/projects/AMRKY/assemblies"
 WORKPATH="/data/ky/characterization"
 mkdir -p ${WORKPATH}
 cd ${WORKPATH}
@@ -42,13 +43,15 @@ do
 
 # Assembly
     module load flye/2.9.6-b1802
-    flye --nano-raw ${FASTQ} -o assembly -t 16
+    flye --nano-hq ${FASTQ} -o assembly -t 16
 
 # Polishing
     module load medaka/2.1.1
     medaka_consensus -i ${FASTQ} -d assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
          -o medaka_out -t 16
-    
+########Transfert the contigs to the storage
+rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/contig${BARCODE}.fasta
+
     echo "Analysis $BARCODE completed"
 done
 
