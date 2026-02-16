@@ -49,8 +49,9 @@ do
     module load medaka/2.1.1
     medaka_consensus -i ${FASTQ} -d assembly/assembly.fasta -m r1041_e82_400bps_sup_v5.2.0 \
          -o medaka_out -t 16
+
 ########Transfert the contigs to the storage
-rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/contig${BARCODE}.fasta
+rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/${BARCODE}_contig.fasta
 
     echo "Analysis $BARCODE completed"
 done
