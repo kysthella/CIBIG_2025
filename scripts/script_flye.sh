@@ -32,7 +32,7 @@ do
     # Quality Control
     #NanoPlot --fastq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o  barcode$i/qc_report -t 16
     # Assembly
-    flye --nano-hq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o barcode$i/assembly -t 16 -g 5m --plasmids
+    flye --nano-hq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o barcode$i/assembly -t 16 -g 5m --plasmids 2> log_file.err &> log_file.out
     # Polishing
     #medaka_consensus -i ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq \
      #    -d barcode$i/assembly/assembly.fasta \
