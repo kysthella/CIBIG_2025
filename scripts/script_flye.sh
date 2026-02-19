@@ -1,12 +1,12 @@
 #!/bin/bash
 #################################
-set -euo pipefail                      #######exit on error, undefined variables
+#set -euo pipefail                      #######exit on error, undefined variables
 
 ####### Definition of the variables for the storagepath, workpath and creation of the directory
 
 STORAGE="storage:/projects/AMRKY/FASTQ_WGS_LABIOGENE/FASTQ"
 ASSEMBLIES="storage:/projects/AMRKY/assemblies"
-WORKPATH="~/ky/characterization"
+WORKPATH="/home/ky/flye/characterization"
 #FASTQ="SQK-RBK114-96_barcode$i.fastq"
 OUTDIR="${WORKPATH}/results"
 mkdir -p ${WORKPATH}
@@ -32,7 +32,16 @@ do
     # Quality Control
     #NanoPlot --fastq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o  barcode$i/qc_report -t 16
     # Assembly
-    flye --nano-hq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o barcode$i/assembly -t 16 -g 5m --plasmids 2> log_file.err &> log_file.out
+    echo "========= Assembly barcode$i ========= \n"
+    flye --meta --nano-hq \
+        ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq \
+        -o barcode$i/assembly -t 16 2> log_file.err &> log_file.out
+
+    if [ $? -ne 0 ]; then
+        echo "ATTENTION : L'assemblage du barcode$i a échoué, passage au suivant..."
+    else
+        echo "Succès pour le barcode$i."
+    fi
     # Polishing
     #medaka_consensus -i ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq \
      #    -d barcode$i/assembly/assembly.fasta \
@@ -44,4 +53,6 @@ do
     echo "Analysis barcode$i completed"
 done
 
-rsync -ravz --progress barcode$i/medaka_out/consensus.fasta  ${ASSEMBLIES}/barcode$i.contig.fasta
+#rsync -ravz --progress barcode$i/medaka_out/consensus.fasta  ${ASSEMBLIES}/barcode$i.contig.fasta
+
+
