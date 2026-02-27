@@ -1,0 +1,23 @@
+2026-02-20 16:05:48,342 NanoPlot 1.42.0 started with arguments Namespace(threads=16, verbose=False, store=False, raw=False, huge=False, outdir='/scratch/ky/characterization/results/barcode17/qc_report/', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['/scratch/ky/characterization/FASTQ/SQK-RBK114-96_barcode17.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='/scratch/ky/characterization/results/barcode17/qc_report/')
+2026-02-20 16:05:48,342 Python version is: 3.10.12 (main, Nov  4 2025, 08:48:33) [GCC 11.4.0]
+2026-02-20 16:05:48,357 Nanoget: Starting to collect statistics from plain fastq file.
+2026-02-20 16:05:48,498 Reduced DataFrame memory usage from 0.0328521728515625Mb to 0.0328521728515625Mb
+2026-02-20 16:05:48,506 Nanoget: Gathered all metrics of 2145 reads
+2026-02-20 16:05:48,520 Calculated statistics
+2026-02-20 16:05:48,521 Using sequenced read lengths for plotting.
+2026-02-20 16:05:48,523 NanoPlot:  Valid color #4CB391.
+2026-02-20 16:05:48,523 NanoPlot:  Valid colormap Greens.
+2026-02-20 16:05:48,524 NanoPlot:  Creating length plots for Read length.
+2026-02-20 16:05:48,524 NanoPlot:  Using 2145 reads maximum of 54253bp.
+2026-02-20 16:05:50,258 Saved /scratch/ky/characterization/results/barcode17/qc_report/WeightedHistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:05:51,429 Saved /scratch/ky/characterization/results/barcode17/qc_report/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:05:52,584 Saved /scratch/ky/characterization/results/barcode17/qc_report/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:05:53,740 Saved /scratch/ky/characterization/results/barcode17/qc_report/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:05:55,028 Saved /scratch/ky/characterization/results/barcode17/qc_report/Yield_By_Length  as png (or png for --legacy)
+2026-02-20 16:05:55,028 Created length plots
+2026-02-20 16:05:55,029 NanoPlot: Creating Read lengths vs Average read quality plots using 2145 reads.
+2026-02-20 16:05:56,266 Saved /scratch/ky/characterization/results/barcode17/qc_report/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2026-02-20 16:05:57,453 Saved /scratch/ky/characterization/results/barcode17/qc_report/LengthvsQualityScatterPlot_kde  as png (or png for --legacy)
+2026-02-20 16:05:57,453 Created LengthvsQual plot
+2026-02-20 16:05:57,453 Writing html report.
+2026-02-20 16:05:57,461 Finished!

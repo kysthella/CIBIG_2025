@@ -1,0 +1,48 @@
+2026-02-20 16:06:43,785 NanoPlot 1.42.0 started with arguments Namespace(threads=16, verbose=False, store=False, raw=False, huge=False, outdir='/scratch/ky/characterization/results/barcode21/qc_report/', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['/scratch/ky/characterization/FASTQ/SQK-RBK114-96_barcode21.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='/scratch/ky/characterization/results/barcode21/qc_report/')
+2026-02-20 16:06:43,785 Python version is: 3.10.12 (main, Nov  4 2025, 08:48:33) [GCC 11.4.0]
+2026-02-20 16:06:43,799 Nanoget: Starting to collect statistics from plain fastq file.
+2026-02-20 16:06:59,671 Reduced DataFrame memory usage from 1.3916473388671875Mb to 1.3916473388671875Mb
+2026-02-20 16:06:59,685 Nanoget: Gathered all metrics of 91195 reads
+2026-02-20 16:06:59,717 Calculated statistics
+2026-02-20 16:06:59,718 Using sequenced read lengths for plotting.
+2026-02-20 16:06:59,721 Removed 2 artefactual reads with very short length and very high quality.
+2026-02-20 16:06:59,744 Calculated statistics
+2026-02-20 16:06:59,745 NanoPlot:  Valid color #4CB391.
+2026-02-20 16:06:59,745 NanoPlot:  Valid colormap Greens.
+2026-02-20 16:06:59,747 NanoPlot:  Creating length plots for Read length.
+2026-02-20 16:06:59,747 NanoPlot:  Using 91193 reads maximum of 75338bp.
+2026-02-20 16:07:01,504 Saved /scratch/ky/characterization/results/barcode21/qc_report/WeightedHistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:07:02,679 Saved /scratch/ky/characterization/results/barcode21/qc_report/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:07:03,829 Saved /scratch/ky/characterization/results/barcode21/qc_report/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:07:04,982 Saved /scratch/ky/characterization/results/barcode21/qc_report/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-02-20 16:07:05,005 Expected object of length 10000, got length: 91193
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/nanoplot/NanoPlot.py", line 110, in main
+    plots = make_plots(datadf, settings)
+  File "/usr/local/lib/python3.10/dist-packages/nanoplot/NanoPlot.py", line 166, in make_plots
+    nanoplotter.length_plots(
+  File "/usr/local/lib/python3.10/dist-packages/nanoplotter/nanoplotter_main.py", line 510, in length_plots
+    yield_by_minimal_length_plot(
+  File "/usr/local/lib/python3.10/dist-packages/nanoplotter/nanoplotter_main.py", line 564, in yield_by_minimal_length_plot
+    fig = px.scatter(df, x=df.reindex(idx)["lengths"], y=df.reindex(idx)["cumyield_gb"])
+  File "/usr/local/lib/python3.10/dist-packages/plotly/express/_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+  File "/usr/local/lib/python3.10/dist-packages/plotly/express/_core.py", line 2491, in make_figure
+    args = build_dataframe(args, constructor)
+  File "/usr/local/lib/python3.10/dist-packages/plotly/express/_core.py", line 1737, in build_dataframe
+    df_output, wide_id_vars = process_args_into_dataframe(
+  File "/usr/local/lib/python3.10/dist-packages/plotly/express/_core.py", line 1213, in process_args_into_dataframe
+    reserved_names = _get_reserved_col_names(args) if df_provided else set()
+  File "/usr/local/lib/python3.10/dist-packages/plotly/express/_core.py", line 1115, in _get_reserved_col_names
+    in_df = (arg_series == df.get_column(arg_name)).all()
+  File "/usr/local/lib/python3.10/dist-packages/narwhals/series.py", line 1699, in __eq__
+    self._compliant_series.__eq__(self._extract_native(other))
+  File "/usr/local/lib/python3.10/dist-packages/narwhals/_pandas_like/series.py", line 408, in __eq__
+    return self._with_binary(operator.eq, other)
+  File "/usr/local/lib/python3.10/dist-packages/narwhals/_pandas_like/series.py", line 398, in _with_binary
+    ser, other_native = align_and_extract_native(self, other)
+  File "/usr/local/lib/python3.10/dist-packages/narwhals/_pandas_like/utils.py", line 166, in align_and_extract_native
+    set_index(rhs.native, lhs_index, implementation=rhs._implementation),
+  File "/usr/local/lib/python3.10/dist-packages/narwhals/_pandas_like/utils.py", line 189, in set_index
+    raise ShapeError(msg)
+narwhals.exceptions.ShapeError: Expected object of length 10000, got length: 91193
