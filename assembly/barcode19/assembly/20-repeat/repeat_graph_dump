@@ -1,0 +1,12 @@
+Edge	26	3	5	0	0	0	3	-1
+	Sequence	+edge_14_0_+disjointig_2_0_10485 10485 12 10486 0 10485
+Edge	27	4	6	0	0	0	3	-1
+	Sequence	-edge_14_0_+disjointig_2_0_10485 10485 -12 10486 0 10485
+Edge	76	7	7	0	0	0	3	-1
+	Sequence	+edge_39_0_+disjointig_10_7333_16105 8772 2 16111 7333 16105
+Edge	77	0	0	0	0	0	3	-1
+	Sequence	-edge_39_0_+disjointig_10_7333_16105 8772 -2 16111 5 8777
+Edge	78	1	1	0	0	0	4	-1
+	Sequence	+edge_40_0_+disjointig_18_10918_29070 18152 10 29076 10918 29070
+Edge	79	2	2	0	0	0	4	-1
+	Sequence	-edge_40_0_+disjointig_18_10918_29070 18152 -10 29076 5 18157
