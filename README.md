@@ -9,6 +9,8 @@ This README provides comprehensive information about a practical training course
 **Nènè Sthella KY**
 # Tutors
 **Ezechiel Bionimian TIBIRI**
+**Edith NIKIEMA**
+**Faizatou SORGHO**
 
 ## Objectives
 The primary aim of this tutored project is to provide hands-on training in bioinformatics techniques and applications, focusing on genomic data analysis and interpretation. Participants will engage in practical exercises, collaborative projects, and discussions led by the tutors.
