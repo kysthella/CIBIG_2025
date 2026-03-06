@@ -22,8 +22,8 @@ OUTDIR="${WORKPATH}/results"
 ###########################################
 ##### Modules load
 #module load nanoplot/1.42.0
-module load flye/2.9.6
-#module load medaka/2.1.1
+#module load flye/2.9.6
+module load medaka/2.1.1
 
 #cd ${WORKPATH}
 #rsync -ravz --progress ${STORAGE} .
@@ -37,23 +37,23 @@ do
     # retreive data from the storage
     # rsync -ravz --progress ${STORAGE}/${FASTQ} .
     # Quality Control
-    #NanoPlot --fastq ${FASTQ}/*${i}.fastq -o barcode$i/qc_report -t 16
+    #NanoPlot --fastq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o  barcode$i/qc_report -t 16
     # Assembly
-    echo "========= Assembly $i ========= \n"
-    flye --meta --nano-hq \
-        ${FASTQ}/*${i}.fastq \
-        -o ${OUTDIR}/${i}/assembly/ -t 16 
+    #echo "========= Assembly $i ========= \n"
+    #flye --meta --nano-hq \
+     #   ${FASTQ}/*${i}.fastq \
+      #  -o ${OUTDIR}/${i}/assembly/ -t 16 
 
-    if [ $? -ne 0 ]; then
-        echo "ATTENTION : L'assemblage du barcode$i a échoué, passage au suivant..."
-    else
-        echo "Succès pour le $i."
-    fi
+   # if [ $? -ne 0 ]; then
+    #    echo "ATTENTION : L'assemblage du barcode$i a échoué, passage au suivant..."
+    #else
+     #   echo "Succès pour le $i."
+   # fi
     # Polishing
-#    medaka_consensus -i ${FASTQ}/*${i}.fastq \
- #        -d ${OUTDIR}/${i}/assembly/assembly.fasta \
-  #       -m r1041_e82_400bps_sup_v5.2.0 \
-   #      -o ${OUTDIR}/${i}/polishing/ -t 16
+    medaka_consensus -i ${FASTQ}/*${i}.fastq \
+         -d ${OUTDIR}/${i}/assembly/assembly.fasta \
+         -m r1041_e82_400bps_sup_v5.2.0 \
+         -o ${OUTDIR}/${i}/polishing/ -t 16
     ########Transfert the contigs to the storage
     # rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/${BARCODE}_contig.fasta
 

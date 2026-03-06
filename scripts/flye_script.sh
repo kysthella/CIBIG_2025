@@ -37,7 +37,7 @@ do
     # retreive data from the storage
     # rsync -ravz --progress ${STORAGE}/${FASTQ} .
     # Quality Control
-    #NanoPlot --fastq ${FASTQ}/*${i}.fastq -o barcode$i/qc_report -t 16
+    #NanoPlot --fastq ${FASTQ}/*${i}.fastq -o ${OUTDIR}/${i}/qc_report/ -t 16
     # Assembly
     echo "========= Assembly $i ========= \n"
     flye --meta --nano-hq \
@@ -50,10 +50,10 @@ do
         echo "Succès pour le $i."
     fi
     # Polishing
-#    medaka_consensus -i ${FASTQ}/*${i}.fastq \
- #        -d ${OUTDIR}/${i}/assembly/assembly.fasta \
-  #       -m r1041_e82_400bps_sup_v5.2.0 \
-   #      -o ${OUTDIR}/${i}/polishing/ -t 16
+    #medaka_consensus -i ${FASTQ}/*${i}.fastq \
+     #    -d ${OUTDIR}/${i}/assembly/assembly.fasta \
+      #   -m r1041_e82_400bps_sup_v5.2.0 \
+      #   -o ${OUTDIR}/${i}/polishing/ -t 16
     ########Transfert the contigs to the storage
     # rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/${BARCODE}_contig.fasta
 
