@@ -10,21 +10,21 @@
 #set -euo pipefail                      #######exit on error, undefined variables
 
 ####### Definition of the variables for the storagepath, workpath and creation of the directory
-
 #STORAGE="storage:/projects/AMRKY/FASTQ_WGS_LABIOGENE/FASTQ"
 #ASSEMBLIES="storage:/projects/AMRKY/assemblies"
 WORKPATH="/scratch/ky/characterization"
 FASTQ="${WORKPATH}/FASTQ"
 OUTDIR="${WORKPATH}/results"
+CHECKDB="${WORKPATH}/check_db"
 #mkdir -p ${WORKPATH}
 #cd ${WORKPATH}
 
 ###########################################
 ##### Modules load
 #module load nanoplot/1.42.0
-module load flye/2.9.6
+#module load flye/2.9.6
 #module load medaka/2.1.1
-
+module load checkm2/1.1.0 
 #cd ${WORKPATH}
 #rsync -ravz --progress ${STORAGE} .
 for i in barcode{01..39}
@@ -37,27 +37,23 @@ do
     # retreive data from the storage
     # rsync -ravz --progress ${STORAGE}/${FASTQ} .
     # Quality Control
-    #NanoPlot --fastq ${FASTQ}/*${i}.fastq -o barcode$i/qc_report -t 16
+    #NanoPlot --fastq ${WORKPATH}/FASTQ/SQK-RBK114-96_barcode$i.fastq -o  barcode$i/qc_report -t 16
     # Assembly
-    echo "========= Assembly $i ========= \n"
-    flye --meta --nano-hq \
-        ${FASTQ}/*${i}.fastq \
-        -o ${OUTDIR}/${i}/assembly/ -t 16 
+#    echo "========= Assembly $i ========= \n"
+ #   flye --meta --nano-hq \
+ #       ${FASTQ}/*${i}.fastq \
+  #      -o ${OUTDIR}/${i}/assembly/ -t 16 
 
-    if [ $? -ne 0 ]; then
-        echo "ATTENTION : L'assemblage du barcode$i a échoué, passage au suivant..."
-    else
-        echo "Succès pour le $i."
-    fi
-    # Polishing
-#    medaka_consensus -i ${FASTQ}/*${i}.fastq \
- #        -d ${OUTDIR}/${i}/assembly/assembly.fasta \
-  #       -m r1041_e82_400bps_sup_v5.2.0 \
-   #      -o ${OUTDIR}/${i}/polishing/ -t 16
-    ########Transfert the contigs to the storage
-    # rsync -ravz --progress medaka_out/consensus.fasta  ${ASSEMBLIES}/${BARCODE}_contig.fasta
-
-    echo "Analysis $i completed"
+#CHECKM
+    #cp ${OUTDIR}/${i}/assembly/assembly.fasta ${WORKPATH}/check_input/${i}.fasta
+#    checkm2 database --download --path ${CHECKDB}
+    mkdir -p ${OUTDIR}/${i}/assembly/checkm2_results 
+    CHECKOUT="${OUTDIR}/${i}/assembly/checkm2_results"
+    checkm2 predict \
+        --threads 16 \
+        --input ${WORKPATH}/check_input \
+        --output-directory ${CHECKOUT}/ \
+        --extension .fasta \
+        --database_path ${CHECKDB}/CheckM2_database/uniref100.KO.1.dmnd \
+        --force
 done
-
-#rsync -ravz --progress barcode$i/medaka_out/consensus.fasta  ${ASSEMBLIES}/barcode$i.contig.fasta
