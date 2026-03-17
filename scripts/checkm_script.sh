@@ -28,8 +28,7 @@ CHECKDB="${WORKPATH}/check_db"
 #module load flye/2.9.6 
 module load checkm2/1.1.0
 
-#retreive data
-#rsync -ravz --progress ${STORAGE} .
+
 for i in barcode{01..39}
 do
     #mkdir -p $OUTDIR

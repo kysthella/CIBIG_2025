@@ -7,7 +7,7 @@
 #SBATCH --error=AMR_1_%j.err
 #SBATCH --nodelist=node02
 #################################
-#set -euo pipefail                      #######exit on error, undefined variables
+set -euo pipefail                      #######exit on error, undefined variables
 
 ####### Definition of the variables for the storagepath, workpath and creation of the directory
 
@@ -25,8 +25,6 @@ module load seqkit/2.11.0
 module load python/3.12.6
 
  
-
-
 for i in barcode{01..39}
 do
     

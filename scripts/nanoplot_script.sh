@@ -7,7 +7,7 @@
 #SBATCH --error=AMR_1_%j.err
 #SBATCH --nodelist=node02
 #################################
-#set -euo pipefail                      #######exit on error, undefined variables
+set -euo pipefail                      #######exit on error, undefined variables
 
 ####### Definition of the variables for the storagepath, workpath and creation of the directory
 
@@ -91,6 +91,6 @@ print(f"Terminé. Tableau disponible ici : {output_file}")
     
 # Quality Control
     NanoPlot --fastq ${WORKPATH}/FASTQ/*${i}.fastq -o ${OUTDIR}/qc_report -t 16
-    
+done    
 
 

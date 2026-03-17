@@ -29,8 +29,8 @@ DB_DIAMOND="/projects/AMRKY/uniref90.dmnd"
 #module load nanoplot/1.42.0
 #module load flye/2.9.6 
 #module load checkm2/1.1.0
-module load medaka/2.1.1
-module load busco/6.0.0  
+#module load medaka/2.1.1
+#module load busco/6.0.0  
 module load diamond/2.0.9
 
 
