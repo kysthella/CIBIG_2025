@@ -328,7 +328,10 @@ plt.savefig("nanoplot_final_complet.png", dpi=300)
 print("\nSuccès ! Graphique généré : nanoplot_final_complet.png")
 plt.show()
 ```
-
+Run the script
+```bash
+python3 viz_final_nanoplot.py
+```
 ### 3. Genome Assembly
 #### 3.1. Flye Assembly
 De novo assembly using the Flye algorithm, specifically optimized for high-quality Nanopore long-reads to resolve complex genomic repeats
@@ -594,7 +597,6 @@ rsync -avz login@160.120.108.164:/projects/AMRKY/assignation_diamond .
 * Generate the summary table
 [Access summary_taxonomy.py](/scripts/summary_taxonomy.py)
 ```bash
-
 #!/usr/bin/env python3
 
 import pandas as pd
@@ -653,7 +655,7 @@ else:
     print("None data")
 ```
 Run the script
-````bash
+```bash
 python3 summary_taxonomy.py
 ```
 
