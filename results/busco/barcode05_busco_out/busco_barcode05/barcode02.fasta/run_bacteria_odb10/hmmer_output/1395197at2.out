@@ -1,0 +1,15 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_49:8050-8724|- -            225 1395197at2           -            157     1e-12   44.1   5.5   1   2   4.8e-05     0.046    9.6   0.0     3    26    15    38    13    44 0.84 contig_49_11 # 8050 # 8724 # -1 # ID=18_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.363
+contig_49:8050-8724|- -            225 1395197at2           -            157     1e-12   44.1   5.5   2   2   8.8e-13   8.4e-10   34.7   2.7    61   138    84   162    77   167 0.80 contig_49_11 # 8050 # 8724 # -1 # ID=18_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.363
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1395197at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode02.fasta/run_bacteria_odb10/hmmer_output/1395197at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1395197at2.hmm /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:04:04 2026
+# [ok]

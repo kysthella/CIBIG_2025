@@ -1,0 +1,4 @@
+contig_4	UniRef90_P39812	99.3	1520	0.0	2987	UniRef90_P39812 Glutamate synthase [NADPH] large chain n=553 Tax=Bacteria TaxID=2 RepID=GLTA_BACSU
+contig_1	UniRef90_A0AAQ3EKV4	99.3	3587	0.0	7012	UniRef90_A0AAQ3EKV4 Surfactin non-ribosomal peptide synthetase SrfAA n=877 Tax=Bacteria TaxID=2 RepID=A0AAQ3EKV4_BACIU
+contig_7	UniRef90_A0AAX3REQ5	93.2	482	1.61e-259	784	UniRef90_A0AAX3REQ5 MobV family relaxase n=134 Tax=Bacteria TaxID=2 RepID=A0AAX3REQ5_BACIU
+contig_5	UniRef90_O64146	98.7	1305	0.0	2603	UniRef90_O64146 DNA-directed DNA polymerase n=103 Tax=root TaxID=1 RepID=DPOL_BPSPB

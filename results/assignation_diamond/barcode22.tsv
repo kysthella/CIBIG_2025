@@ -1,0 +1,6 @@
+contig_7	UniRef90_A0A809T0H2	99.1	1706	0.0	3215	UniRef90_A0A809T0H2 Conjugal transfer protein TraI n=1 Tax=Escherichia coli TaxID=562 RepID=A0A809T0H2_ECOLX
+contig_6	UniRef90_UPI0010AB5718	100	1409	0.0	2642	UniRef90_UPI0010AB5718 LPD7 domain-containing protein n=1 Tax=Escherichia coli TaxID=562 RepID=UPI0010AB5718
+contig_5	UniRef90_UPI00164F482F	98.6	2255	0.0	4348	UniRef90_UPI00164F482F N-6 DNA methylase n=26 Tax=Enterobacteriaceae TaxID=543 RepID=UPI00164F482F
+contig_1	UniRef90_UPI0034590E08	97.7	6925	0.0	12079	UniRef90_UPI0034590E08 BapA-related adhesin SiiEA n=2 Tax=Escherichia coli TaxID=562 RepID=UPI0034590E08
+contig_2	UniRef90_UPI003967901C	97.5	118	6.63e-81	254	UniRef90_UPI003967901C hypothetical protein n=4 Tax=Enterobacteriaceae TaxID=543 RepID=UPI003967901C
+contig_4	UniRef90_UPI00388DCEFD	99.7	380	1.10e-259	770	UniRef90_UPI00388DCEFD integron integrase n=2 Tax=Klebsiella pneumoniae TaxID=573 RepID=UPI00388DCEFD

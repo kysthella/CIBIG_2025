@@ -1,0 +1,5 @@
+contig_1	UniRef90_E7CGR2	99.1	226	2.23e-143	434	UniRef90_E7CGR2 Glutamine--fructose-6-phosphate aminotransferase [isomerizing] n=3 Tax=Bacillus thuringiensis serovar chinensis CT-43 TaxID=541229 RepID=E7CGR2_BACTU
+contig_2	UniRef90_R8HL14	90.8	271	5.44e-156	474	UniRef90_R8HL14 YhfC family intramembrane metalloprotease n=440 Tax=Bacillus TaxID=1386 RepID=R8HL14_BACCE
+contig_3	UniRef90_A0AAW7NSI7	100	490	0.0	995	UniRef90_A0AAW7NSI7 MutH/Sau3AI family endonuclease n=13 Tax=Bacillales TaxID=1385 RepID=A0AAW7NSI7_BACCE
+contig_5	UniRef90_UPI002FDBBC1D	96.1	206	3.20e-130	400	UniRef90_UPI002FDBBC1D replication initiation factor domain-containing protein n=1 Tax=Bacillus paranthracis TaxID=2026186 RepID=UPI002FDBBC1D
+contig_6	UniRef90_UPI0021126572	98.3	540	0.0	1087	UniRef90_UPI0021126572 phage tail protein n=5 Tax=Bacillales TaxID=1385 RepID=UPI0021126572

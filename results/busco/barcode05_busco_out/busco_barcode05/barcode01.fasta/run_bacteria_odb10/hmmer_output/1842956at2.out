@@ -1,0 +1,15 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_10:4327-5079|+ -            251 1842956at2           -             97   1.4e-10   35.4   0.5   1   2   1.3e-11   3.5e-09   30.9   0.3     8    72    47   128    43   143 0.71 contig_10_4 # 4327 # 5079 # 1 # ID=2_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413
+contig_10:4327-5079|+ -            251 1842956at2           -             97   1.4e-10   35.4   0.5   2   2       0.1        28   -0.8   0.0    68    90   214   232   191   235 0.60 contig_10_4 # 4327 # 5079 # 1 # ID=2_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.413
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1842956at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode01.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode01.fasta/run_bacteria_odb10/hmmer_output/1842956at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1842956at2.hmm /scratch/ky/characterization/results/barcode05/polishing/busco_out/busco_barcode05/barcode01.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:04:01 2026
+# [ok]

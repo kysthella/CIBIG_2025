@@ -1,0 +1,39 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm
+# target sequence database:        /scratch/ky/characterization/results/barcode04/polishing/busco_out/busco_barcode04/barcode01.fasta/prodigal_output/predicted_genes/predicted.faa
+# per-dom hits tabular output:     /scratch/ky/characterization/results/barcode04/polishing/busco_out/busco_barcode04/barcode01.fasta/run_bacteria_odb10/hmmer_output/932854at2.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       932854at2  [M=1620]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1620 nodes)
+Target sequences:                        278  (70585 residues searched)
+Passed MSV filter:                        12  (0.0431655); expected 5.6 (0.02)
+Passed bias filter:                        8  (0.028777); expected 5.6 (0.02)
+Passed Vit filter:                         2  (0.00719424); expected 0.3 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                278  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 11739.72
+//
+[ok]

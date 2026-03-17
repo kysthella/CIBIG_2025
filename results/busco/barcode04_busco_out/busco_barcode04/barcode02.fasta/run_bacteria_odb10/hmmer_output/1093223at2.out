@@ -1,0 +1,15 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_43:7633-9051|- -            473 1093223at2           -            361   1.7e-20   69.6   0.9   1   2   7.8e-11   7.4e-08   27.9   0.1    71   110   100   143    55   154 0.78 contig_43_14 # 7633 # 9051 # -1 # ID=9_14;partial=00;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.327
+contig_43:7633-9051|- -            473 1093223at2           -            361   1.7e-20   69.6   0.9   2   2   2.2e-14   2.1e-11   39.6   0.1   115   255   169   353   161   418 0.73 contig_43_14 # 7633 # 9051 # -1 # ID=9_14;partial=00;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.327
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1093223at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode04/polishing/busco_out/busco_barcode04/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode04/polishing/busco_out/busco_barcode04/barcode02.fasta/run_bacteria_odb10/hmmer_output/1093223at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1093223at2.hmm /scratch/ky/characterization/results/barcode04/polishing/busco_out/busco_barcode04/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:03:54 2026
+# [ok]

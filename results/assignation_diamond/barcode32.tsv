@@ -1,0 +1,5 @@
+contig_2	UniRef90_UPI003F67BAE6	98.2	1431	0.0	2630	UniRef90_UPI003F67BAE6 LPD7 domain-containing protein n=1 Tax=Klebsiella aerogenes TaxID=548 RepID=UPI003F67BAE6
+contig_1	UniRef90_A0AAX2KA09	97.6	2294	0.0	4274	UniRef90_A0AAX2KA09 Inverse autotransporter adhesin YeeJ n=434 Tax=Gammaproteobacteria TaxID=1236 RepID=A0AAX2KA09_ECOLX
+contig_5	UniRef90_UPI00200198DC	97.1	1255	0.0	2314	UniRef90_UPI00200198DC LPD7 domain-containing protein n=1 Tax=Escherichia coli TaxID=562 RepID=UPI00200198DC
+contig_3	UniRef90_A0AB33I5Y8	99.4	2278	0.0	4469	UniRef90_A0AB33I5Y8 Helicase SNF2 n=554 Tax=Bacteria TaxID=2 RepID=A0AB33I5Y8_ECOLX
+contig_4	UniRef90_A0A809T0H2	99.2	1706	0.0	3217	UniRef90_A0A809T0H2 Conjugal transfer protein TraI n=1 Tax=Escherichia coli TaxID=562 RepID=A0A809T0H2_ECOLX

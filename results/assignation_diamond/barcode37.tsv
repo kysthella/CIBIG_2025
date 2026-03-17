@@ -1,0 +1,10 @@
+contig_5	UniRef90_A0A3V9PZU9	84.6	143	1.92e-67	229	UniRef90_A0A3V9PZU9 Uncharacterized protein n=7 Tax=Salmonella enterica TaxID=28901 RepID=A0A3V9PZU9_SALET
+contig_2	UniRef90_A0A659Q1H7	99.9	1434	0.0	2835	UniRef90_A0A659Q1H7 Periplasmic protein n=526 Tax=Bacteria TaxID=2 RepID=A0A659Q1H7_SALET
+contig_1	UniRef90_UPI0035C6141D	99.2	6019	0.0	10992	UniRef90_UPI0035C6141D Ig-like domain-containing protein n=3 Tax=Enterobacter cloacae complex TaxID=354276 RepID=UPI0035C6141D
+contig_9	UniRef90_A8SPZ5	97.1	310	9.90e-198	615	UniRef90_A8SPZ5 Aminoglycoside 3'-phosphotransferase n=19 Tax=Gammaproteobacteria TaxID=1236 RepID=A8SPZ5_ECOLX
+contig_3	UniRef90_A0A809T0H2	99.2	1706	0.0	3217	UniRef90_A0A809T0H2 Conjugal transfer protein TraI n=1 Tax=Escherichia coli TaxID=562 RepID=A0A809T0H2_ECOLX
+contig_7	UniRef90_UPI00259FF683	60.8	166	1.25e-49	182	UniRef90_UPI00259FF683 hypothetical protein n=43 Tax=Bacteria TaxID=2 RepID=UPI00259FF683
+contig_10	UniRef90_P07112	100	709	0.0	1389	UniRef90_P07112 Mobilization protein A n=308 Tax=Bacteria TaxID=2 RepID=MOBA2_ECOLX
+contig_6	UniRef90_A0A7U1FGE5	99.4	3163	0.0	6299	UniRef90_A0A7U1FGE5 Irp1 n=4156 Tax=Bacteria TaxID=2 RepID=A0A7U1FGE5_KLEPN
+contig_8	UniRef90_R4VFU7	100	518	4.21e-313	943	UniRef90_R4VFU7 Mobilization protein A n=211 Tax=Bacteria TaxID=2 RepID=R4VFU7_CROSK
+contig_4	UniRef90_A0A3V9PZU9	84.6	143	1.03e-67	229	UniRef90_A0A3V9PZU9 Uncharacterized protein n=7 Tax=Salmonella enterica TaxID=28901 RepID=A0A3V9PZU9_SALET

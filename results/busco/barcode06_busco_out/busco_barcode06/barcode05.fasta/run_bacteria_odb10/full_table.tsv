@@ -1,0 +1,127 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+4421at2	Fragmented	contig_16	2300	3	-	1193.0	684	https://v10-1.orthodb.org/?query=4421at2	DNA-directed RNA polymerase subunit beta'
+9601at2	Fragmented	contig_16	4464	2338	-	986.0	560	https://v10-1.orthodb.org/?query=9601at2	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+26038at2	Missing
+91428at2	Missing
+95696at2	Complete	contig_33	5575	3599	-	768.9	488	https://v10-1.orthodb.org/?query=95696at2	excinuclease ABC subunit B
+143460at2	Missing
+182107at2	Missing
+219876at2	Missing
+223233at2	Missing
+226836at2	Missing
+232152at2	Complete	contig_4	4330	5382	+	285.7	230	https://v10-1.orthodb.org/?query=232152at2	adenylosuccinate synthase
+267682at2	Missing
+353391at2	Missing
+384865at2	Missing
+402899at2	Missing
+430176at2	Missing
+462069at2	Missing
+469058at2	Missing
+504464at2	Missing
+505485at2	Missing
+533698at2	Missing
+662686at2	Complete	contig_12	15955	15011	-	265.8	224	https://v10-1.orthodb.org/?query=662686at2	DNA-directed RNA polymerase subunit alpha
+665824at2	Missing
+761140at2	Complete	contig_23	8350	6716	-	137.2	280	https://v10-1.orthodb.org/?query=761140at2	Methionine--tRNA ligase
+776861at2	Missing
+837522at2	Missing
+841869at2	Missing
+874197at2	Missing
+923547at2	Missing
+932854at2	Missing
+932993at2	Missing
+961486at2	Complete	contig_12	27361	26531	-	239.1	183	https://v10-1.orthodb.org/?query=961486at2	Ribosomal protein L2
+981870at2	Missing
+984717at2	Missing
+1009041at2	Missing
+1024388at2	Missing
+1036075at2	Missing
+1043239at2	Missing
+1049662at2	Missing
+1054741at2	Missing
+1069591at2	Missing
+1074831at2	Missing
+1080436at2	Missing
+1093223at2	Missing
+1132353at2	Complete	contig_12	25829	25170	-	199.3	161	https://v10-1.orthodb.org/?query=1132353at2	K Homology domain
+1151822at2	Missing
+1166299at2	Missing
+1211060at2	Missing
+1257362at2	Missing
+1266295at2	Missing
+1270636at2	Complete	contig_12	28961	28329	-	186.8	162	https://v10-1.orthodb.org/?query=1270636at2	Ribosomal protein L3
+1272633at2	Missing
+1346419at2	Missing
+1395197at2	Missing
+1398618at2	Complete	contig_12	22252	21713	-	151.3	130	https://v10-1.orthodb.org/?query=1398618at2	Ribosomal protein L6, alpha-beta domain
+1419877at2	Missing
+1456375at2	Complete	contig_12	23471	22932	-	232.7	142	https://v10-1.orthodb.org/?query=1456375at2	Ribosomal protein L5
+1470978at2	Missing
+1490892at2	Missing
+1491686at2	Complete	contig_12	18769	18119	-	138.1	130	https://v10-1.orthodb.org/?query=1491686at2	Adenylate kinase
+1497415at2	Missing
+1502854at2	Missing
+1504821at2	Missing
+1505038at2	Complete	contig_12	21297	20797	-	233.9	149	https://v10-1.orthodb.org/?query=1505038at2	Ribosomal protein S5
+1540940at2	Missing
+1567535at2	Complete	contig_12	20127	18826	-	333.0	297	https://v10-1.orthodb.org/?query=1567535at2	Protein translocase subunit SecY
+1572673at2	Complete	contig_12	28303	27680	-	143.3	106	https://v10-1.orthodb.org/?query=1572673at2	50S ribosomal protein L4
+1574817at2	Missing
+1590629at2	Missing
+1592033at2	Missing
+1595498at2	Missing
+1623045at2	Missing
+1661836at2	Missing
+1666043at2	Complete	contig_12	26174	25833	-	122.2	86	https://v10-1.orthodb.org/?query=1666043at2	Ribosomal protein L22/L17
+1671455at2	Missing
+1674344at2	Missing
+1676462at2	Missing
+1692188at2	Complete	contig_12	22683	22285	-	196.4	131	https://v10-1.orthodb.org/?query=1692188at2	Ribosomal protein S8
+1698718at2	Missing
+1701531at2	Missing
+1702697at2	Missing
+1707228at2	Missing
+1713391at2	Complete	contig_12	16525	16136	-	156.7	97	https://v10-1.orthodb.org/?query=1713391at2	Ribosomal protein S11
+1720952at2	Missing
+1758685at2	Missing
+1760144at2	Missing
+1766414at2	Complete	contig_12	10658	10266	-	115.0	99	https://v10-1.orthodb.org/?query=1766414at2	Ribosomal protein S9
+1772647at2	Complete	contig_12	16915	16550	-	147.7	100	https://v10-1.orthodb.org/?query=1772647at2	Ribosomal protein S13
+1776954at2	Missing
+1786618at2	Complete	contig_12	25168	24734	-	160.5	104	https://v10-1.orthodb.org/?query=1786618at2	Ribosomal protein L16
+1799923at2	Complete	contig_12	24216	23848	-	141.0	104	https://v10-1.orthodb.org/?query=1799923at2	Ribosomal protein L14P
+1822215at2	Complete	contig_12	11117	10680	-	163.6	113	https://v10-1.orthodb.org/?query=1822215at2	Ribosomal protein L13
+1822695at2	Missing
+1827295at2	Missing
+1827334at2	Missing
+1830156at2	Missing
+1838961at2	Complete	contig_12	14975	14613	-	103.6	83	https://v10-1.orthodb.org/?query=1838961at2	Ribosomal protein L17
+1842956at2	Missing
+1844275at2	Fragmented	contig_10	3	788	+	44.2	128	https://v10-1.orthodb.org/?query=1844275at2	Aspartate carbamoyltransferase
+1846503at2	Missing
+1874945at2	Complete	contig_12	20567	20127	-	78.7	75	https://v10-1.orthodb.org/?query=1874945at2	Ribosomal protein L15
+1890943at2	Missing
+1893906at2	Complete	contig_12	26470	26192	-	141.8	71	https://v10-1.orthodb.org/?query=1893906at2	Ribosomal protein S19, bacterial-type
+1904463at2	Missing
+1906715at2	Missing
+1932144at2	Missing
+1937072at2	Missing
+1937493at2	Missing
+1940575at2	Missing
+1949059at2	Missing
+1959318at2	Complete	contig_4	2279	2725	+	80.7	84	https://v10-1.orthodb.org/?query=1959318at2	Ribosomal protein L9
+1963491at2	Complete	contig_12	21681	21319	-	150.6	103	https://v10-1.orthodb.org/?query=1963491at2	Ribosomal protein L18
+1971380at2	Missing
+1978865at2	Complete	contig_12	27680	27390	-	103.3	91	https://v10-1.orthodb.org/?query=1978865at2	Ribosomal protein L25/L23
+1990141at2	Missing
+1990650at2	Missing
+2005443at2	Missing
+2012682at2	Fragmented	contig_12	29136	28996	-	78.1	44	https://v10-1.orthodb.org/?query=2012682at2	Ribosomal protein S10
+2035880at2	Complete	contig_12	24523	24260	-	91.3	57	https://v10-1.orthodb.org/?query=2035880at2	Ribosomal protein S17/S11
+2040741at2	Complete	contig_12	23809	23498	-	68.2	54	https://v10-1.orthodb.org/?query=2040741at2	Ribosomal protein L24
+2046660at2	Missing
+2063644at2	Complete	contig_12	24744	24544	-	53.4	36	https://v10-1.orthodb.org/?query=2063644at2	Ribosomal protein L29/L35
+2066663at2	Complete	contig_12	17304	17086	-	93.8	57	https://v10-1.orthodb.org/?query=2066663at2	Translation initiation factor IF-1
+2075502at2	Missing

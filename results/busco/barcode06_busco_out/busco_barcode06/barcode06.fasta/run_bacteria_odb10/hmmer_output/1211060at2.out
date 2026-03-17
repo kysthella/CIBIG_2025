@@ -1,0 +1,21 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_17:90649-91251|- -            201 1211060at2           -            164   1.4e-59  198.4   0.2   1   2   4.9e-57   3.3e-54  180.9   0.1     1   136     1   151     1   165 0.89 contig_17_84 # 90649 # 91251 # -1 # ID=24_84;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.401
+contig_17:90649-91251|- -            201 1211060at2           -            164   1.4e-59  198.4   0.2   2   2   2.5e-06    0.0017   16.0   0.0   137   164   170   200   152   200 0.87 contig_17_84 # 90649 # 91251 # -1 # ID=24_84;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.401
+contig_29:58877-59167|+ -             97 1211060at2           -            164   0.00048   17.8   0.1   1   1   7.8e-07   0.00053   17.7   0.1    78   132     1    55     1    86 0.82 contig_29_64 # 58877 # 59167 # 1 # ID=51_64;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.347
+contig_39:26563-27294|+ -            244 1211060at2           -            164     0.001   16.8   0.1   1   1   2.4e-06    0.0016   16.1   0.1    78   128     2    52     1    78 0.83 contig_39_34 # 26563 # 27294 # 1 # ID=44_34;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.377
+contig_17:66393-68621|- -            743 1211060at2           -            164     0.012   13.2   0.2   1   2      0.16   1.1e+02    0.4   0.0   104   136   475   507   471   534 0.73 contig_17_65 # 66393 # 68621 # -1 # ID=24_65;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393
+contig_17:66393-68621|- -            743 1211060at2           -            164     0.012   13.2   0.2   2   2   0.00026      0.17    9.5   0.0   104   130   598   624   596   653 0.85 contig_17_65 # 66393 # 68621 # -1 # ID=24_65;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393
+contig_45:11913-12389|- -            159 1211060at2           -            164     0.023   12.4   0.0   1   1   5.3e-05     0.036   11.7   0.0    92   132    14    54     2    79 0.87 contig_45_14 # 11913 # 12389 # -1 # ID=4_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.363
+contig_60:7626-8537|+   -            304 1211060at2           -            164     0.031   11.9   0.0   1   1   8.6e-05     0.058   11.0   0.0    79   127    16    64    10    76 0.83 contig_60_8 # 7626 # 8537 # 1 # ID=12_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.400
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1211060at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode06/polishing/busco_out/busco_barcode06/barcode06.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode06/polishing/busco_out/busco_barcode06/barcode06.fasta/run_bacteria_odb10/hmmer_output/1211060at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1211060at2.hmm /scratch/ky/characterization/results/barcode06/polishing/busco_out/busco_barcode06/barcode06.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:04:26 2026
+# [ok]

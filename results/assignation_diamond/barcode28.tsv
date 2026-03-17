@@ -1,0 +1,64 @@
+contig_22	UniRef90_A0A1M0D4P5	99.5	398	4.57e-268	804	UniRef90_A0A1M0D4P5 Putative Altronate dehydratase n=110 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A1M0D4P5_ECOLX
+contig_13	UniRef90_A0A151Z2F0	91.5	601	0.0	1041	UniRef90_A0A151Z2F0 Uncharacterized protein n=145 Tax=cellular organisms TaxID=131567 RepID=A0A151Z2F0_TIELA
+contig_48	UniRef90_P05791	98.4	615	0.0	1191	UniRef90_P05791 Dihydroxy-acid dehydratase n=3672 Tax=cellular organisms TaxID=131567 RepID=ILVD_ECOLI
+contig_43	UniRef90_U4UR98	63.2	1060	0.0	1197	UniRef90_U4UR98 ATP synthase subunit beta n=2 Tax=cellular organisms TaxID=131567 RepID=U4UR98_DENPD
+contig_60	UniRef90_A0A376D8C2	99.3	441	3.14e-308	882	UniRef90_A0A376D8C2 Zinc finger SWIM domain-containing protein n=3 Tax=Enterobacteriaceae TaxID=543 RepID=A0A376D8C2_ECOLX
+contig_6	UniRef90_A0A376J3L8	89.8	266	1.87e-136	416	UniRef90_A0A376J3L8 Putative replication protein from phage (Modular protein) n=2 Tax=Escherichia coli TaxID=562 RepID=A0A376J3L8_ECOLX
+contig_64	UniRef90_A0A7W4LWV9	99.1	804	0.0	1538	UniRef90_A0A7W4LWV9 Phenylalanine--tRNA ligase beta subunit n=183 Tax=Bacilli TaxID=91061 RepID=A0A7W4LWV9_BACVE
+contig_11	UniRef90_A0A376HUN1	99.7	604	0.0	1152	UniRef90_A0A376HUN1 histidine kinase n=499 Tax=Pseudomonadati TaxID=3379134 RepID=A0A376HUN1_ECOLX
+contig_52	UniRef90_A0A2U2H1Y1	95.2	357	1.15e-226	688	UniRef90_A0A2U2H1Y1 Protein RecA n=304 Tax=root TaxID=1 RepID=A0A2U2H1Y1_YERPE
+contig_47	UniRef90_P03004	99.8	467	1.15e-305	914	UniRef90_P03004 Chromosomal replication initiator protein DnaA n=1634 Tax=Bacteria TaxID=2 RepID=DNAA_ECOLI
+contig_4	UniRef90_A0A7W4LSW6	99.0	4085	0.0	8087	UniRef90_A0A7W4LSW6 Polyketide synthase PksJ n=67 Tax=Bacillus TaxID=1386 RepID=A0A7W4LSW6_BACVE
+contig_30	UniRef90_A0AA36KX61	99.8	648	0.0	1124	UniRef90_A0AA36KX61 AIDA-I type autotransporter protein n=1683 Tax=Gammaproteobacteria TaxID=1236 RepID=A0AA36KX61_ECOLX
+contig_51	UniRef90_P19323	99.1	692	0.0	1342	UniRef90_P19323 Formate hydrogenlyase transcriptional activator FhlA n=282 Tax=Bacteria TaxID=2 RepID=FHLA_ECOLI
+contig_55	UniRef90_P0A799	100	387	1.39e-240	743	UniRef90_P0A799 Phosphoglycerate kinase n=1578 Tax=cellular organisms TaxID=131567 RepID=PGK_ECOLI
+contig_63	UniRef90_P0AGM0	99.1	349	4.80e-225	641	UniRef90_P0AGM0 Putative transport protein YhhT n=739 Tax=Bacteria TaxID=2 RepID=YHHT_ECOLI
+contig_20	UniRef90_Q65AP7	92.9	505	0.0	957	UniRef90_Q65AP7 Phage portal protein n=463 Tax=root TaxID=1 RepID=Q65AP7_YERPE
+contig_19	UniRef90_P18196	99.1	231	1.60e-142	452	UniRef90_P18196 Septum site-determining protein MinC n=421 Tax=Gammaproteobacteria TaxID=1236 RepID=MINC_ECOLI
+contig_15	UniRef90_P0AC78	99.7	367	3.16e-252	713	UniRef90_P0AC78 Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase n=102 Tax=cellular organisms TaxID=131567 RepID=WECA_ECOLI
+contig_10	UniRef90_I2C685	95.1	1793	0.0	3367	UniRef90_I2C685 Non-ribosomal peptide synthase n=401 Tax=Bacillales TaxID=1385 RepID=I2C685_BACAY
+contig_53	UniRef90_P75906	96.4	672	0.0	1320	UniRef90_P75906 Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase n=1486 Tax=Bacteria TaxID=2 RepID=PGAB_ECOLI
+contig_12	UniRef90_P0AFM6	99.1	222	3.92e-130	394	UniRef90_P0AFM6 Phage shock protein A n=509 Tax=Gammaproteobacteria TaxID=1236 RepID=PSPA_ECOLI
+contig_61	UniRef90_O34788	73.0	278	6.56e-121	373	UniRef90_O34788 (R,R)-butanediol dehydrogenase n=162 Tax=Bacillus TaxID=1386 RepID=BDHA_BACSU
+contig_26	UniRef90_A0A7W4QCA8	98.4	5203	0.0	10186	UniRef90_A0A7W4QCA8 Polyketide synthase PksN n=29 Tax=Bacillus TaxID=1386 RepID=A0A7W4QCA8_BACVE
+contig_8	UniRef90_P63284	66.7	775	1.58e-270	840	UniRef90_P63284 Chaperone protein ClpB n=3483 Tax=cellular organisms TaxID=131567 RepID=CLPB_ECOLI
+contig_58	UniRef90_B7MW10	91.0	334	1.96e-215	652	UniRef90_B7MW10 Tail fiber component K n=422 Tax=root TaxID=1 RepID=B7MW10_ECO81
+contig_50	UniRef90_A0A8J4SMA9	65.8	1099	0.0	1459	UniRef90_A0A8J4SMA9 Glycerol-3-phosphate dehydrogenase n=1 Tax=Phytophthora kernoviae 00238/432 TaxID=1284355 RepID=A0A8J4SMA9_9STRA
+contig_27	UniRef90_C3SFB2	100	457	0.0	940	UniRef90_C3SFB2 UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase n=41 Tax=Enterobacteriaceae TaxID=543 RepID=C3SFB2_ECOLX
+contig_29	UniRef90_A0A0H3MEY1	97.9	340	1.08e-234	705	UniRef90_A0A0H3MEY1 Uncharacterized protein n=490 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A0H3MEY1_ECO7I
+contig_54	UniRef90_A0A2G9ACD4	100	1300	0.0	2657	UniRef90_A0A2G9ACD4 DUF4092 domain-containing protein n=204 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A2G9ACD4_ECOLX
+contig_56	UniRef90_UPI003CFAAF5E	98.6	292	2.97e-193	563	UniRef90_UPI003CFAAF5E DnaB-like helicase C-terminal domain-containing protein n=3 Tax=Enterobacteriaceae TaxID=543 RepID=UPI003CFAAF5E
+contig_59	UniRef90_A0A377K5F6	96.8	464	9.28e-279	860	UniRef90_A0A377K5F6 Sensor protein n=121 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A377K5F6_ECOLX
+contig_39	UniRef90_P11349	99.6	512	0.0	1071	UniRef90_P11349 Respiratory nitrate reductase 1 beta chain n=962 Tax=Gammaproteobacteria TaxID=1236 RepID=NARH_ECOLI
+contig_62	UniRef90_P0AEZ7	100	452	7.25e-316	892	UniRef90_P0AEZ7 Membrane-bound lytic murein transglycosylase D n=760 Tax=Bacteria TaxID=2 RepID=MLTD_ECOLI
+contig_3	UniRef90_UPI0007D04CD6	98.5	3588	0.0	7008	UniRef90_UPI0007D04CD6 surfactin non-ribosomal peptide synthetase SrfAB n=10 Tax=Bacillus TaxID=1386 RepID=UPI0007D04CD6
+contig_21	UniRef90_P13656	95.6	900	0.0	1708	UniRef90_P13656 Probable bifunctional chitinase/lysozyme n=1618 Tax=cellular organisms TaxID=131567 RepID=CHIA_ECOLI
+contig_1	UniRef90_UPI001C7D56E3	95.0	5702	0.0	10760	UniRef90_UPI001C7D56E3 non-ribosomal peptide synthetase n=3 Tax=Paenibacillus TaxID=44249 RepID=UPI001C7D56E3
+contig_14	UniRef90_A0A151Z2F0	90.7	354	2.34e-186	589	UniRef90_A0A151Z2F0 Uncharacterized protein n=145 Tax=cellular organisms TaxID=131567 RepID=A0A151Z2F0_TIELA
+contig_18	UniRef90_A0A0A2VUH5	82.3	1267	0.0	2104	UniRef90_A0A0A2VUH5 1-deoxy-D-xylulose-5-phosphate synthase n=2 Tax=cellular organisms TaxID=131567 RepID=A0A0A2VUH5_BEABA
+contig_23	UniRef90_I2C330	99.3	452	1.66e-311	904	UniRef90_I2C330 ATP-grasp domain-containing protein n=106 Tax=Bacillus TaxID=1386 RepID=I2C330_BACAY
+contig_35	UniRef90_U4TYH6	73.8	652	7.48e-302	907	UniRef90_U4TYH6 Carbamoyl phosphate synthase arginine-specific large chain, chloroplastic n=3 Tax=cellular organisms TaxID=131567 RepID=U4TYH6_DENPD
+contig_40	UniRef90_I7AK80	99.7	338	9.70e-229	690	UniRef90_I7AK80 Glycosyltransferase family 8 protein n=150 Tax=Bacteria TaxID=2 RepID=I7AK80_ECOLX
+contig_42	UniRef90_A0A376J7Z5	77.4	461	3.01e-233	696	UniRef90_A0A376J7Z5 Putative inner membrane protein n=1 Tax=Escherichia coli TaxID=562 RepID=A0A376J7Z5_ECOLX
+contig_32	UniRef90_A0A135XW57	100	262	3.23e-180	523	UniRef90_A0A135XW57 ORF6N domain-containing protein n=60 Tax=Enterobacteriaceae TaxID=543 RepID=A0A135XW57_ECOLX
+contig_24	UniRef90_Q32E33	96.4	756	0.0	1509	UniRef90_Q32E33 Metallo-beta-lactamase domain-containing protein n=73 Tax=Enterobacteriaceae TaxID=543 RepID=Q32E33_SHIDS
+contig_16	UniRef90_A0A376WXF1	92.9	778	0.0	1405	UniRef90_A0A376WXF1 Phosphogluconate dehydratase n=66 Tax=cellular organisms TaxID=131567 RepID=A0A376WXF1_ECOLX
+contig_37	UniRef90_P76149	99.1	462	7.81e-314	912	UniRef90_P76149 Succinate semialdehyde dehydrogenase [NAD(P)+] Sad n=1756 Tax=cellular organisms TaxID=131567 RepID=SAD_ECOLI
+contig_38	UniRef90_X5FD95	96.8	525	0.0	1000	UniRef90_X5FD95 DeoO n=1028 Tax=Gammaproteobacteria TaxID=1236 RepID=X5FD95_ECOLX
+contig_49	UniRef90_A0A0F6RIK0	90.2	644	0.0	1118	UniRef90_A0A0F6RIK0 Iron permease n=12 Tax=Citrobacter TaxID=544 RepID=A0A0F6RIK0_CITAM
+contig_57	UniRef90_P02942	96.3	513	5.04e-257	769	UniRef90_P02942 Methyl-accepting chemotaxis protein I n=1706 Tax=cellular organisms TaxID=131567 RepID=MCP1_ECOLI
+contig_65	UniRef90_A0AAW6XIY5	97.4	545	0.0	1041	UniRef90_A0AAW6XIY5 MobQ family relaxase (Fragment) n=12 Tax=Bacteria TaxID=2 RepID=A0AAW6XIY5_9LACO
+contig_45	UniRef90_A0A210GQZ4	99.7	389	4.50e-248	734	UniRef90_A0A210GQZ4 Uncharacterized protein n=71 Tax=Enterobacteriaceae TaxID=543 RepID=A0A210GQZ4_ECOLX
+contig_46	UniRef90_UPI00073BEAF2	94.0	534	0.0	963	UniRef90_UPI00073BEAF2 Tn3 family transposase n=1 Tax=Salmonella enterica TaxID=28901 RepID=UPI00073BEAF2
+contig_28	UniRef90_UPI0013DF33A3	99.7	353	6.22e-235	672	UniRef90_UPI0013DF33A3 inorganic phosphate transporter PitB n=2 Tax=Escherichia coli TaxID=562 RepID=UPI0013DF33A3
+contig_5	UniRef90_A0A8E2KPV6	98.7	1189	0.0	1493	UniRef90_A0A8E2KPV6 Host specificity protein J n=209 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A8E2KPV6_ECOLX
+contig_17	UniRef90_A0A377D1T3	99.1	438	1.33e-300	851	UniRef90_A0A377D1T3 histidine kinase n=15 Tax=Enterobacteriaceae TaxID=543 RepID=A0A377D1T3_ECOLX
+contig_33	UniRef90_UPI0005A9063C	96.7	704	0.0	1028	UniRef90_UPI0005A9063C ribonuclease E n=1 Tax=Escherichia coli TaxID=562 RepID=UPI0005A9063C
+contig_41	UniRef90_Q8ZNN5	95.1	365	6.31e-225	696	UniRef90_Q8ZNN5 Iron-sulfur cluster carrier protein n=2686 Tax=Bacteria TaxID=2 RepID=APBC_SALTY
+contig_25	UniRef90_P0AAG8	96.6	472	4.88e-304	888	UniRef90_P0AAG8 Galactose/methyl galactoside import ATP-binding protein MglA n=2986 Tax=cellular organisms TaxID=131567 RepID=MGLA_ECOLI
+contig_34	UniRef90_P26648	99.8	470	0.0	956	UniRef90_P26648 Cell division protein FtsP n=883 Tax=Bacteria TaxID=2 RepID=FTSP_ECOLI
+contig_36	UniRef90_A0AA36P9X0	100	234	1.26e-156	471	UniRef90_A0AA36P9X0 DNA-binding protein n=10 Tax=Enterobacteriaceae TaxID=543 RepID=A0AA36P9X0_ECOLX
+contig_44	UniRef90_Q8X5X6	99.4	531	0.0	1051	UniRef90_Q8X5X6 Acetate CoA-transferase YdiF n=3079 Tax=Bacteria TaxID=2 RepID=YDIF_ECO57
+contig_31	UniRef90_A0A3Z9ACU4	99.3	136	7.36e-89	293	UniRef90_A0A3Z9ACU4 Uncharacterized protein n=36 Tax=Enterobacteriaceae TaxID=543 RepID=A0A3Z9ACU4_ECOLX
+contig_7	UniRef90_UPI0005A9B696	99.1	540	0.0	1073	UniRef90_UPI0005A9B696 enterobactin synthase subunit F n=2 Tax=Escherichia coli TaxID=562 RepID=UPI0005A9B696
+contig_9	UniRef90_A0A7W4LSD8	98.9	5433	0.0	10646	UniRef90_A0A7W4LSD8 Polyketide synthase PksN n=296 Tax=Bacteria TaxID=2 RepID=A0A7W4LSD8_BACVE

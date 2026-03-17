@@ -1,0 +1,5 @@
+Input_file	Dataset	Complete	Single	Duplicated	Fragmented	Missing	n_markers	Translation table	Scaffold N50	Contigs N50	Percent gaps	Number of scaffolds
+barcode01.fasta	bacteria_odb10	1.6	1.6	0.0	0.8	97.6	124	11	34788	34788	0.000%	15
+barcode02.fasta	bacteria_odb10	22.6	22.6	0.0	3.2	74.2	124	11	19686	19686	0.000%	53
+barcode05.fasta	bacteria_odb10	25.0	25.0	0.0	3.2	71.8	124	11	10786	10786	0.000%	37
+barcode06.fasta	bacteria_odb10	83.1	83.1	0.0	9.7	7.3	124	11	89965	89965	0.000%	61

@@ -1,0 +1,4 @@
+contig_3	UniRef90_A0A6G2B589	100	295	2.90e-196	611	UniRef90_A0A6G2B589 Plasmid replication protein (Fragment) n=150 Tax=Bacteria TaxID=2 RepID=A0A6G2B589_ECOLX
+contig_1	UniRef90_A0A7U1FGE5	99.6	3163	0.0	6312	UniRef90_A0A7U1FGE5 Irp1 n=4156 Tax=Bacteria TaxID=2 RepID=A0A7U1FGE5_KLEPN
+contig_2	UniRef90_O07102	100	158	3.46e-97	313	UniRef90_O07102 HTH domain-containing protein n=336 Tax=Bacteria TaxID=2 RepID=O07102_ECOLX
+contig_4	UniRef90_UPI000CE2E1B2	99.2	1761	0.0	3315	UniRef90_UPI000CE2E1B2 conjugative transfer relaxase/helicase TraI n=2 Tax=Escherichia coli TaxID=562 RepID=UPI000CE2E1B2

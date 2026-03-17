@@ -1,0 +1,17 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_45:25884-27275|+ -            464 226836at2            -            473   1.4e-27   91.8   0.2   1   4   4.5e-13   4.3e-10   34.2   0.0    10   146    16   172     7   185 0.76 contig_45_29 # 25884 # 27275 # 1 # ID=33_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.403
+contig_45:25884-27275|+ -            464 226836at2            -            473   1.4e-27   91.8   0.2   2   4   0.00019      0.19    5.7   0.0   180   224   223   271   208   284 0.80 contig_45_29 # 25884 # 27275 # 1 # ID=33_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.403
+contig_45:25884-27275|+ -            464 226836at2            -            473   1.4e-27   91.8   0.2   3   4   0.00032      0.31    5.0   0.0   207   252   286   329   276   341 0.78 contig_45_29 # 25884 # 27275 # 1 # ID=33_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.403
+contig_45:25884-27275|+ -            464 226836at2            -            473   1.4e-27   91.8   0.2   4   4   1.7e-15   1.6e-12   42.1   0.0   340   453   348   459   330   463 0.82 contig_45_29 # 25884 # 27275 # 1 # ID=33_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.403
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/226836at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/run_bacteria_odb10/hmmer_output/226836at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/226836at2.hmm /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:03:45 2026
+# [ok]

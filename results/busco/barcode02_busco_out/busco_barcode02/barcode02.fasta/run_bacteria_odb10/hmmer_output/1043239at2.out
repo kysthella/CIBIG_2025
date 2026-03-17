@@ -1,0 +1,14 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_51:12734-13477|+ -            248 1043239at2           -            160   3.7e-34  113.8   3.0   1   1   6.7e-35   6.4e-32  106.5   3.0    14   154    36   217     8   222 0.79 contig_51_12 # 12734 # 13477 # 1 # ID=8_12;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.384
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1043239at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode02/polishing/busco_out/busco_barcode02/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode02/polishing/busco_out/busco_barcode02/barcode02.fasta/run_bacteria_odb10/hmmer_output/1043239at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/1043239at2.hmm /scratch/ky/characterization/results/barcode02/polishing/busco_out/busco_barcode02/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:03:30 2026
+# [ok]

@@ -1,0 +1,127 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+4421at2	Missing
+9601at2	Missing
+26038at2	Fragmented	contig_57	3052	4569	+	164.3	238	https://v10-1.orthodb.org/?query=26038at2	PurM-like, C-terminal domain
+91428at2	Complete	contig_25	8800	6158	-	548.2	547	https://v10-1.orthodb.org/?query=91428at2	Alanine--tRNA ligase
+95696at2	Complete	contig_30	14861	16837	+	768.9	488	https://v10-1.orthodb.org/?query=95696at2	excinuclease ABC subunit B
+143460at2	Missing
+182107at2	Complete	contig_53	12793	10970	-	754.7	492	https://v10-1.orthodb.org/?query=182107at2	Elongation factor 4
+219876at2	Complete	contig_61	20369	21691	+	332.0	262	https://v10-1.orthodb.org/?query=219876at2	Chromosomal replication initiator protein DnaA
+223233at2	Missing
+226836at2	Missing
+232152at2	Fragmented	contig_61	1051	431	-	132.8	118	https://v10-1.orthodb.org/?query=232152at2	adenylosuccinate synthase
+267682at2	Complete	contig_57	4541	5923	+	288.9	290	https://v10-1.orthodb.org/?query=267682at2	Amidophosphoribosyltransferase
+353391at2	Missing
+384865at2	Missing
+402899at2	Missing
+430176at2	Complete	contig_48	2076	670	-	581.9	360	https://v10-1.orthodb.org/?query=430176at2	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+462069at2	Missing
+469058at2	Complete	contig_45	21912	22946	+	433.2	293	https://v10-1.orthodb.org/?query=469058at2	Phenylalanine--tRNA ligase alpha subunit
+504464at2	Complete	contig_4	5785	4238	-	316.3	233	https://v10-1.orthodb.org/?query=504464at2	GMP synthase
+505485at2	Missing
+533698at2	Missing
+662686at2	Missing
+665824at2	Missing
+761140at2	Complete	contig_63	9134	7500	-	137.2	280	https://v10-1.orthodb.org/?query=761140at2	Methionine--tRNA ligase
+776861at2	Missing
+837522at2	Complete	contig_48	4939	3431	-	673.5	412	https://v10-1.orthodb.org/?query=837522at2	ATP synthase subunit alpha
+841869at2	Missing
+874197at2	Missing
+923547at2	Complete	contig_57	6025	7065	+	462.9	310	https://v10-1.orthodb.org/?query=923547at2	Phosphoribosylformylglycinamidine cyclo-ligase
+932854at2	Complete	contig_57	9487	10758	+	650.2	419	https://v10-1.orthodb.org/?query=932854at2	Phosphoribosylamine--glycine ligase
+932993at2	Missing
+961486at2	Missing
+981870at2	Missing
+984717at2	Missing
+1009041at2	Missing
+1024388at2	Missing
+1036075at2	Missing
+1043239at2	Complete	contig_51	12734	13477	+	113.8	141	https://v10-1.orthodb.org/?query=1043239at2	Uridylate kinase
+1049662at2	Complete	contig_57	7674	9209	+	622.2	437	https://v10-1.orthodb.org/?query=1049662at2	Methylglyoxal synthase-like domain
+1054741at2	Fragmented	contig_25	15895	15419	-	244.0	150	https://v10-1.orthodb.org/?query=1054741at2	tRNA-specific 2-thiouridylase
+1069591at2	Missing
+1074831at2	Missing
+1080436at2	Missing
+1093223at2	Missing
+1132353at2	Missing
+1151822at2	Missing
+1166299at2	Missing
+1211060at2	Missing
+1257362at2	Missing
+1266295at2	Missing
+1270636at2	Missing
+1272633at2	Missing
+1346419at2	Missing
+1395197at2	Fragmented	contig_49	8724	8050	-	44.1	102	https://v10-1.orthodb.org/?query=1395197at2	Peptidase M50
+1398618at2	Missing
+1419877at2	Missing
+1456375at2	Missing
+1470978at2	Missing
+1490892at2	Complete	contig_53	3126	2377	-	58.1	88	https://v10-1.orthodb.org/?query=1490892at2	16S rRNA (uracil(1498)-N(3))-methyltransferase
+1491686at2	Missing
+1497415at2	Missing
+1502854at2	Missing
+1504821at2	Missing
+1505038at2	Missing
+1540940at2	Missing
+1567535at2	Missing
+1572673at2	Missing
+1574817at2	Missing
+1590629at2	Complete	contig_61	14174	13455	-	69.8	89	https://v10-1.orthodb.org/?query=1590629at2	rRNA small subunit methyltransferase G
+1592033at2	Missing
+1595498at2	Missing
+1623045at2	Missing
+1661836at2	Missing
+1666043at2	Missing
+1671455at2	Missing
+1674344at2	Missing
+1676462at2	Missing
+1692188at2	Missing
+1698718at2	Missing
+1701531at2	Complete	contig_48	3178	2318	-	172.9	145	https://v10-1.orthodb.org/?query=1701531at2	ATP synthase, F1 complex, gamma subunit
+1702697at2	Missing
+1707228at2	Missing
+1713391at2	Missing
+1720952at2	Missing
+1758685at2	Missing
+1760144at2	Complete	contig_45	11327	11827	+	97.4	86	https://v10-1.orthodb.org/?query=1760144at2	Translation initiation factor 3, C-terminal
+1766414at2	Missing
+1772647at2	Missing
+1776954at2	Complete	contig_61	7301	7011	-	66.5	71	https://v10-1.orthodb.org/?query=1776954at2	Ribosomal protein S6
+1786618at2	Missing
+1799923at2	Missing
+1822215at2	Missing
+1822695at2	Missing
+1827295at2	Missing
+1827334at2	Complete	contig_6	3413	2847	-	87.3	89	https://v10-1.orthodb.org/?query=1827334at2	methyltransferase
+1830156at2	Missing
+1838961at2	Missing
+1842956at2	Missing
+1844275at2	Missing
+1846503at2	Complete	contig_6	2850	2359	-	123.0	107	https://v10-1.orthodb.org/?query=1846503at2	pantetheine-phosphate adenylyltransferase
+1874945at2	Missing
+1890943at2	Missing
+1893906at2	Missing
+1904463at2	Missing
+1906715at2	Complete	contig_53	7998	7420	-	70.7	70	https://v10-1.orthodb.org/?query=1906715at2	Protein GrpE
+1932144at2	Complete	contig_45	12087	12443	+	122.1	93	https://v10-1.orthodb.org/?query=1932144at2	Ribosomal protein L20
+1937072at2	Missing
+1937493at2	Complete	contig_48	5493	4951	-	123.5	157	https://v10-1.orthodb.org/?query=1937493at2	ATP synthase subunit delta
+1940575at2	Missing
+1949059at2	Missing
+1959318at2	Complete	contig_61	3108	2659	-	80.5	82	https://v10-1.orthodb.org/?query=1959318at2	Ribosomal protein L9
+1963491at2	Missing
+1971380at2	Missing
+1978865at2	Missing
+1990141at2	Missing
+1990650at2	Missing
+2005443at2	Complete	contig_53	14650	14907	+	68.8	63	https://v10-1.orthodb.org/?query=2005443at2	Ribosomal protein S20
+2012682at2	Missing
+2035880at2	Missing
+2040741at2	Missing
+2046660at2	Complete	contig_45	11849	12049	+	32.6	34	https://v10-1.orthodb.org/?query=2046660at2	Ribosomal protein L35
+2063644at2	Missing
+2066663at2	Missing
+2075502at2	Complete	contig_25	5811	5398	-	50.8	71	https://v10-1.orthodb.org/?query=2075502at2	YqgF/RNase H-like domain

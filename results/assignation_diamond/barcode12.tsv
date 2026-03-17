@@ -1,0 +1,8 @@
+contig_10	UniRef90_Q81TT4	99.5	866	0.0	1646	UniRef90_Q81TT4 Chaperone protein ClpB n=868 Tax=Bacteria TaxID=2 RepID=CLPB_BACAN
+contig_12	UniRef90_Q6HKW5	95.1	2289	0.0	4021	UniRef90_Q6HKW5 DUF11 domain-containing protein n=162 Tax=Bacteria TaxID=2 RepID=Q6HKW5_BACHK
+contig_8	UniRef90_Q814W0	99.8	505	0.0	976	UniRef90_Q814W0 ATP synthase subunit alpha n=211 Tax=Bacteria TaxID=2 RepID=ATPA_BACCR
+contig_1	UniRef90_Q81WF0	99.5	428	1.28e-285	859	UniRef90_Q81WF0 Dihydroorotase n=488 Tax=Bacteria TaxID=2 RepID=PYRC_BACAN
+contig_11	UniRef90_Q6HKA3	95.8	567	0.0	1091	UniRef90_Q6HKA3 Acetolactate synthase n=131 Tax=Bacillus TaxID=1386 RepID=Q6HKA3_BACHK
+contig_9	UniRef90_A0A1Y5YZU9	97.0	666	0.0	1271	UniRef90_A0A1Y5YZU9 Cyclic di-GMP phosphodiesterase Gmr n=959 Tax=Bacteria TaxID=2 RepID=A0A1Y5YZU9_9BACI
+contig_2	UniRef90_A0A8J4WC77	61.0	680	1.46e-242	757	UniRef90_A0A8J4WC77 ABC transporter domain-containing protein n=1 Tax=Phytophthora kernoviae 00238/432 TaxID=1284355 RepID=A0A8J4WC77_9STRA
+contig_3	UniRef90_Q81HR6	96.0	225	5.24e-141	456	UniRef90_Q81HR6 DUF3965 domain-containing protein n=417 Tax=Bacteria TaxID=2 RepID=Q81HR6_BACCR

@@ -1,0 +1,15 @@
+contig_11	UniRef90_A0A9X7GPQ6	96.4	779	0.0	1499	UniRef90_A0A9X7GPQ6 Single-stranded-DNA-specific exonuclease RecJ n=817 Tax=Bacteria TaxID=2 RepID=A0A9X7GPQ6_BACCE
+contig_10	UniRef90_A0A2L1VJA7	94.1	816	0.0	1503	UniRef90_A0A2L1VJA7 Heme utilization protein n=6 Tax=Acinetobacter calcoaceticus/baumannii complex TaxID=909768 RepID=A0A2L1VJA7_ACINO
+contig_15	UniRef90_UPI00387A11AB	99.8	526	0.0	1007	UniRef90_UPI00387A11AB MobQ family relaxase n=5 Tax=Acinetobacter TaxID=469 RepID=UPI00387A11AB
+contig_8	UniRef90_A0A009HPV8	99.3	768	0.0	1558	UniRef90_A0A009HPV8 Amine oxidase n=1063 Tax=Bacteria TaxID=2 RepID=A0A009HPV8_ACIB9
+contig_1	UniRef90_N9M453	97.9	803	0.0	1590	UniRef90_N9M453 TonB-dependent receptor n=555 Tax=Bacteria TaxID=2 RepID=N9M453_9GAMM
+contig_7	UniRef90_F0KJ83	94.8	772	0.0	1478	UniRef90_F0KJ83 Acyl-coenzyme A dehydrogenase n=852 Tax=Bacteria TaxID=2 RepID=F0KJ83_ACIP2
+contig_3	UniRef90_R8Y945	96.9	1025	0.0	1892	UniRef90_R8Y945 SSD domain-containing protein n=736 Tax=Gammaproteobacteria TaxID=1236 RepID=R8Y945_ACIPI
+contig_2	UniRef90_F0KK01	96.3	791	0.0	1578	UniRef90_F0KK01 Radical SAM core domain-containing protein n=731 Tax=Gammaproteobacteria TaxID=1236 RepID=F0KK01_ACIP2
+contig_13	UniRef90_A0A2W6ILT7	96.6	291	4.23e-181	545	UniRef90_A0A2W6ILT7 Peptidase n=28 Tax=Stenotrophomonas TaxID=40323 RepID=A0A2W6ILT7_STEMA
+contig_4	UniRef90_UPI00145BAFED	100	1175	0.0	2340	UniRef90_UPI00145BAFED BREX-1 system adenine-specific DNA-methyltransferase PglX n=1 Tax=Acinetobacter TaxID=469 RepID=UPI00145BAFED
+contig_6	UniRef90_A0A0A7XEZ1	99.5	553	0.0	1091	UniRef90_A0A0A7XEZ1 Energy-dependent translational throttle protein EttA n=547 Tax=Bacteria TaxID=2 RepID=A0A0A7XEZ1_ACINO
+contig_14	UniRef90_A0AA39CSZ1	82.8	936	0.0	1394	UniRef90_A0AA39CSZ1 Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex n=6 Tax=cellular organisms TaxID=131567 RepID=A0AA39CSZ1_9EURO
+contig_9	UniRef90_A0ABD5APV5	95.1	711	0.0	1344	UniRef90_A0ABD5APV5 3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase/3-hydroxybutyryl-CoA epimerase n=928 Tax=Bacteria TaxID=2 RepID=A0ABD5APV5_ACICA
+contig_12	UniRef90_A0A7R9L7M4	61.4	923	0.0	1012	UniRef90_A0A7R9L7M4 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase n=2 Tax=cellular organisms TaxID=131567 RepID=A0A7R9L7M4_9ACAR
+contig_5	UniRef90_A0ABT8ZFR9	94.6	406	3.15e-284	793	UniRef90_A0ABT8ZFR9 Phage/plasmid replication protein, II/X family n=7 Tax=Acinetobacter TaxID=469 RepID=A0ABT8ZFR9_9GAMM

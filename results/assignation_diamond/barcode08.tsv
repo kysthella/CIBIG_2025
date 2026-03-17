@@ -1,0 +1,11 @@
+contig_2	UniRef90_A0A0C9MM56	68.7	294	5.94e-115	373	UniRef90_A0A0C9MM56 Hydrolase (Fragment) n=1 Tax=Mucor ambiguus TaxID=91626 RepID=A0A0C9MM56_9FUNG
+contig_7	UniRef90_A0A150B1Z4	100	718	0.0	1410	UniRef90_A0A150B1Z4 Transposase n=18 Tax=Bacillaceae TaxID=186817 RepID=A0A150B1Z4_BACCE
+contig_8	UniRef90_A0A4U1DCB4	96.5	622	0.0	1150	UniRef90_A0A4U1DCB4 Cyclic-di-AMP phosphodiesterase n=421 Tax=Bacillales TaxID=1385 RepID=A0A4U1DCB4_9BACI
+contig_4	UniRef90_J8D6F8	95.7	414	4.80e-265	782	UniRef90_J8D6F8 Amino acid permease/ SLC12A domain-containing protein n=453 Tax=Bacillales TaxID=1385 RepID=J8D6F8_BACCE
+contig_9	UniRef90_Q81HX0	95.3	298	3.07e-186	543	UniRef90_Q81HX0 Ribokinase n=523 Tax=Bacteria TaxID=2 RepID=Q81HX0_BACCR
+contig_11	UniRef90_A0AAW7NSI7	100	490	0.0	995	UniRef90_A0AAW7NSI7 MutH/Sau3AI family endonuclease n=13 Tax=Bacillales TaxID=1385 RepID=A0AAW7NSI7_BACCE
+contig_3	UniRef90_Q1PS72	95.8	409	2.76e-262	768	UniRef90_Q1PS72 Tnp166 n=249 Tax=Bacteria TaxID=2 RepID=Q1PS72_BACTT
+contig_5	UniRef90_Q81R81	98.0	562	0.0	1098	UniRef90_Q81R81 Arginine--tRNA ligase 2 n=999 Tax=Bacteria TaxID=2 RepID=SYR2_BACAN
+contig_1	UniRef90_Q81JH3	99.1	576	0.0	1118	UniRef90_Q81JH3 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG n=415 Tax=Bacteria TaxID=2 RepID=MNMG_BACAN
+contig_6	UniRef90_A0AAP8BFZ5	93.4	561	0.0	1083	UniRef90_A0AAP8BFZ5 Acetoacetyl-CoA synthetase n=693 Tax=Bacteria TaxID=2 RepID=A0AAP8BFZ5_BACMY
+contig_10	UniRef90_Q81X26	99.2	835	0.0	1607	UniRef90_Q81X26 Protein translocase subunit SecA 1 n=202 Tax=Bacilli TaxID=91061 RepID=SECA1_BACAN

@@ -1,0 +1,5 @@
+contig_3	UniRef90_A0A1Y1CUB7	99.8	1038	0.0	2017	UniRef90_A0A1Y1CUB7 Type I restriction enzyme endonuclease subunit n=207 Tax=Enterobacteriaceae TaxID=543 RepID=A0A1Y1CUB7_ECOLX
+contig_6	UniRef90_P30130	98.9	878	0.0	1760	UniRef90_P30130 Outer membrane usher protein FimD n=2531 Tax=Bacteria TaxID=2 RepID=FIMD_ECOLI
+contig_4	UniRef90_A5H8A5	96.6	506	1.44e-289	889	UniRef90_A5H8A5 Plasmid efflux fluoroquinolone n=80 Tax=Bacteria TaxID=2 RepID=A5H8A5_ECOLX
+contig_1	UniRef90_A0A077ZK91	98.0	1994	0.0	3897	UniRef90_A0A077ZK91 Glutamate synthase n=229 Tax=cellular organisms TaxID=131567 RepID=A0A077ZK91_TRITR
+contig_5	UniRef90_R4V800	93.5	155	1.03e-84	286	UniRef90_R4V800 DNA replication protein n=14 Tax=Enterobacterales TaxID=91347 RepID=R4V800_CROSK

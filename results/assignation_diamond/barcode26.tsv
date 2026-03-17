@@ -1,0 +1,6 @@
+contig_7	UniRef90_A0AAW6XIY5	97.2	744	0.0	1429	UniRef90_A0AAW6XIY5 MobQ family relaxase (Fragment) n=12 Tax=Bacteria TaxID=2 RepID=A0AAW6XIY5_9LACO
+contig_3	UniRef90_Q0H060	99.6	486	1.85e-308	932	UniRef90_Q0H060 Amino acid antiporter n=109 Tax=Enterobacteriaceae TaxID=543 RepID=Q0H060_ECOLX
+contig_5	UniRef90_UPI0010CC28E1	99.5	1525	0.0	2742	UniRef90_UPI0010CC28E1 tape measure protein n=14 Tax=Escherichia coli TaxID=562 RepID=UPI0010CC28E1
+contig_4	UniRef90_UPI000F96968F	97.3	1049	0.0	2039	UniRef90_UPI000F96968F acid-sensing system histidine kinase EvgS n=4 Tax=Escherichia coli TaxID=562 RepID=UPI000F96968F
+contig_6	UniRef90_E0WH20	99.2	1353	0.0	2479	UniRef90_E0WH20 DNA primase n=377 Tax=cellular organisms TaxID=131567 RepID=E0WH20_ECOLX
+contig_1	UniRef90_UPI0034590E08	97.7	6925	0.0	12079	UniRef90_UPI0034590E08 BapA-related adhesin SiiEA n=2 Tax=Escherichia coli TaxID=562 RepID=UPI0034590E08

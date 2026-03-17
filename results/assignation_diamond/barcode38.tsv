@@ -1,0 +1,7 @@
+contig_3	UniRef90_A0AAN3V9Q1	94.7	570	0.0	1026	UniRef90_A0AAN3V9Q1 Tape measure domain protein n=83 Tax=Enterobacteriaceae TaxID=543 RepID=A0AAN3V9Q1_ECOLX
+contig_7	UniRef90_I6EWV8	95.7	517	0.0	967	UniRef90_I6EWV8 DNA relaxase mbeA n=112 Tax=Bacteria TaxID=2 RepID=I6EWV8_SHIBO
+contig_6	UniRef90_UPI000451C359	99.9	1756	0.0	3341	UniRef90_UPI000451C359 conjugative transfer relaxase/helicase TraI n=13 Tax=Enterobacteriaceae TaxID=543 RepID=UPI000451C359
+contig_1	UniRef90_A0A6D0DJP4	61.3	723	5.21e-240	747	UniRef90_A0A6D0DJP4 FAD-binding protein n=30 Tax=Bacteria TaxID=2 RepID=A0A6D0DJP4_ECOLX
+contig_2	UniRef90_UPI0010C979C8	96.5	2660	0.0	4870	UniRef90_UPI0010C979C8 Ig-like domain-containing protein n=1 Tax=Escherichia coli TaxID=562 RepID=UPI0010C979C8
+contig_5	UniRef90_A0A0H0MBD8	99.7	360	1.61e-248	728	UniRef90_A0A0H0MBD8 Restriction endonuclease n=62 Tax=Enterobacteriaceae TaxID=543 RepID=A0A0H0MBD8_ECOLX
+contig_4	UniRef90_A0A8B4LJI1	68.0	200	4.79e-79	266	UniRef90_A0A8B4LJI1 Uncharacterized protein n=1 Tax=Shigella sonnei TaxID=624 RepID=A0A8B4LJI1_SHISO

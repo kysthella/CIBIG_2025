@@ -1,0 +1,16 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_4:4238-5785|-    -            516 504464at2            -            233     5e-96  316.3   5.4   1   2   3.1e-73   1.5e-70  233.0   0.4     1   170   213   422   213   432 0.86 contig_4_4 # 4238 # 5785 # -1 # ID=40_4;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.399
+contig_4:4238-5785|-    -            516 504464at2            -            233     5e-96  316.3   5.4   2   2   3.3e-28   1.6e-25   85.6   0.6   169   233   444   515   425   515 0.89 contig_4_4 # 4238 # 5785 # -1 # ID=40_4;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.399
+contig_25:15419-15895|- -            159 504464at2            -            233    0.0034   12.5   0.0   1   1   1.2e-05    0.0059   11.7   0.0    13    39     1    26     1    37 0.81 contig_25_18 # 15419 # 15895 # -1 # ID=26_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/504464at2.hmm
+# Target file:     /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/run_bacteria_odb10/hmmer_output/504464at2.out --cpu 1 /scratch/ky/characterization/busco_downloads/lineages/bacteria_odb10/hmms/504464at2.hmm /scratch/ky/characterization/results/barcode03/polishing/busco_out/busco_barcode03/barcode02.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /scratch/ky/characterization
+# Date:            Thu Mar 12 12:03:45 2026
+# [ok]

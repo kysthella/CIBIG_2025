@@ -1,0 +1,37 @@
+contig_7	UniRef90_Q6HNS9	94.6	485	0.0	934	UniRef90_Q6HNS9 Glutamate synthase, NADPH, large subunit n=312 Tax=Bacteria TaxID=2 RepID=Q6HNS9_BACHK
+contig_22	UniRef90_UPI003183C774	97.7	477	5.08e-297	832	UniRef90_UPI003183C774 MDR family MFS transporter n=1 Tax=Bacillus sp. BR3(2024) TaxID=3126755 RepID=UPI003183C774
+contig_8	UniRef90_A0A9X8SJL7	95.2	568	0.0	1065	UniRef90_A0A9X8SJL7 Periplasmic oligopeptide-binding protein OppA n=662 Tax=Bacillales TaxID=1385 RepID=A0A9X8SJL7_9BACI
+contig_16	UniRef90_A0R8H2	96.7	1106	0.0	2095	UniRef90_A0R8H2 DNA-directed RNA polymerase subunit beta n=204 Tax=Bacillales TaxID=1385 RepID=RPOB_BACAH
+contig_9	UniRef90_Q81HC5	96.0	451	0.0	903	UniRef90_Q81HC5 Long-chain-fatty-acid--CoA ligase n=838 Tax=Bacillati TaxID=1783272 RepID=Q81HC5_BACCR
+contig_10	UniRef90_Q81M99	97.3	261	8.97e-172	510	UniRef90_Q81M99 Ornithine carbamoyltransferase n=608 Tax=Bacillus TaxID=1386 RepID=OTC_BACAN
+contig_30	UniRef90_J9BVY6	92.6	391	2.66e-237	684	UniRef90_J9BVY6 Major facilitator superfamily (MFS) profile domain-containing protein n=540 Tax=Bacilli TaxID=91061 RepID=J9BVY6_BACCE
+contig_24	UniRef90_A0ABD5I1K3	94.6	369	2.03e-226	691	UniRef90_A0ABD5I1K3 DUF58 domain-containing protein n=537 Tax=Bacillus TaxID=1386 RepID=A0ABD5I1K3_BACTU
+contig_34	UniRef90_A0A9X8X2W2	99.8	534	0.0	1058	UniRef90_A0A9X8X2W2 Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase n=502 Tax=Bacillus TaxID=1386 RepID=A0A9X8X2W2_9BACI
+contig_26	UniRef90_Q81GA4	99.6	473	0.0	937	UniRef90_Q81GA4 Lactate utilization protein B n=383 Tax=Bacillota TaxID=1239 RepID=LUTB_BACCR
+contig_20	UniRef90_Q81VZ6	99.3	289	7.56e-196	577	UniRef90_Q81VZ6 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase n=237 Tax=Bacillaceae TaxID=186817 RepID=ISPE_BACAN
+contig_1	UniRef90_A0A0A0WVP0	97.6	451	4.56e-303	875	UniRef90_A0A0A0WVP0 Cytochrome D ubiquinol oxidase subunit I n=478 Tax=Bacillati TaxID=1783272 RepID=A0A0A0WVP0_BACMY
+contig_3	UniRef90_A0A3P1TWS2	99.5	560	0.0	1108	UniRef90_A0A3P1TWS2 Glycerol-3-phosphate dehydrogenase n=616 Tax=Bacteria TaxID=2 RepID=A0A3P1TWS2_BACAN
+contig_11	UniRef90_A0A1J9ZIU4	99.8	487	9.48e-311	942	UniRef90_A0A1J9ZIU4 Inosine-5'-monophosphate dehydrogenase n=272 Tax=Bacteria TaxID=2 RepID=A0A1J9ZIU4_9BACI
+contig_13	UniRef90_A0A1T3UZQ4	100	342	1.58e-227	674	UniRef90_A0A1T3UZQ4 Glyceraldehyde-3-phosphate dehydrogenase n=312 Tax=Bacilli TaxID=91061 RepID=A0A1T3UZQ4_BACAN
+contig_15	UniRef90_A0A5M9GQQ4	99.7	369	9.17e-253	739	UniRef90_A0A5M9GQQ4 glycine oxidase n=586 Tax=Bacteria TaxID=2 RepID=A0A5M9GQQ4_9BACI
+contig_5	UniRef90_Q81HQ0	97.8	697	0.0	1283	UniRef90_Q81HQ0 Potassium-transporting ATPase ATP-binding subunit n=924 Tax=Bacillales TaxID=1385 RepID=KDPB_BACCR
+contig_21	UniRef90_A0AAJ1K2V4	99.9	922	0.0	1808	UniRef90_A0AAJ1K2V4 Carbamoyl phosphate synthase large chain n=2 Tax=Bacillus paranthracis TaxID=2026186 RepID=A0AAJ1K2V4_9BACI
+contig_12	UniRef90_A0ABU8G4W1	89.1	433	9.33e-241	746	UniRef90_A0ABU8G4W1 Protein translocase subunit SecY n=3 Tax=Bacillus TaxID=1386 RepID=A0ABU8G4W1_9BACI
+contig_35	UniRef90_A0AAW7NNK6	99.8	466	0.0	954	UniRef90_A0AAW7NNK6 Cytosine-specific methyltransferase n=12 Tax=Bacillales TaxID=1385 RepID=A0AAW7NNK6_BACCE
+contig_31	UniRef90_A0RJ87	99.2	794	0.0	1502	UniRef90_A0RJ87 Lon protease n=552 Tax=Bacteria TaxID=2 RepID=LON_BACAH
+contig_19	UniRef90_A0AB73TL13	60.3	292	3.55e-93	305	UniRef90_A0AB73TL13 Replication protein n=46 Tax=Bacteria TaxID=2 RepID=A0AB73TL13_ENTFC
+contig_36	UniRef90_UPI0021126572	98.3	540	0.0	1087	UniRef90_UPI0021126572 phage tail protein n=5 Tax=Bacillales TaxID=1385 RepID=UPI0021126572
+contig_2	UniRef90_Q1PS72	95.8	409	7.09e-277	768	UniRef90_Q1PS72 Tnp166 n=249 Tax=Bacteria TaxID=2 RepID=Q1PS72_BACTT
+contig_17	UniRef90_Q81JW1	99.4	535	0.0	1071	UniRef90_Q81JW1 CTP synthase n=143 Tax=Bacteria TaxID=2 RepID=PYRG_BACAN
+contig_25	UniRef90_P0DPJ9	99.1	430	5.92e-262	782	UniRef90_P0DPJ9 Cortical fragment-lytic enzyme n=535 Tax=Bacillales TaxID=1385 RepID=SLEL_BACAN
+contig_4	UniRef90_A0A0A3WKS5	99.8	453	8.86e-299	869	UniRef90_A0A0A3WKS5 Replicative DNA helicase n=231 Tax=Bacilli TaxID=91061 RepID=A0A0A3WKS5_BACCE
+contig_33	UniRef90_Q815I4	99.5	958	0.0	1885	UniRef90_Q815I4 UvrABC system protein A n=783 Tax=Bacteria TaxID=2 RepID=Q815I4_BACCR
+contig_27	UniRef90_UPI000995237E	94.8	670	0.0	1258	UniRef90_UPI000995237E GAF domain-containing sensor histidine kinase n=2 Tax=Bacillus cereus group TaxID=86661 RepID=UPI000995237E
+contig_6	UniRef90_A0A6L7HKS4	99.6	278	1.14e-186	560	UniRef90_A0A6L7HKS4 TrmB family transcriptional regulator n=637 Tax=Bacillus TaxID=1386 RepID=A0A6L7HKS4_BACAN
+contig_32	UniRef90_J9CTG4	92.4	448	6.86e-302	842	UniRef90_J9CTG4 Stage V sporulation protein R n=455 Tax=Bacteria TaxID=2 RepID=J9CTG4_BACCE
+contig_29	UniRef90_Q81JX1	99.7	355	2.55e-216	671	UniRef90_Q81JX1 Peptide chain release factor 1 n=242 Tax=Bacteria TaxID=2 RepID=RF1_BACAN
+contig_37	UniRef90_A0A132ZAK1	99.7	322	6.31e-224	661	UniRef90_A0A132ZAK1 Replication protein n=98 Tax=Bacteria TaxID=2 RepID=A0A132ZAK1_ENTFC
+contig_23	UniRef90_Q81XF9	95.4	544	0.0	1092	UniRef90_Q81XF9 Methionine--tRNA ligase 2 n=963 Tax=Bacteria TaxID=2 RepID=SYM2_BACAN
+contig_18	UniRef90_A0A5M9GYG7	99.3	713	0.0	1444	UniRef90_A0A5M9GYG7 Pullulanase n=945 Tax=Bacillus TaxID=1386 RepID=A0A5M9GYG7_9BACI
+contig_28	UniRef90_A0AAP4Q343	95.3	658	0.0	1193	UniRef90_A0AAP4Q343 ABC transporter permease n=239 Tax=Bacillus TaxID=1386 RepID=A0AAP4Q343_BACTU
+contig_14	UniRef90_Q81ZE8	99.8	485	0.0	950	UniRef90_Q81ZE8 Glutamyl-tRNA(Gln) amidotransferase subunit A n=353 Tax=Bacteria TaxID=2 RepID=GATA_BACAN

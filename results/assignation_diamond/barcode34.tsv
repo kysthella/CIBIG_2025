@@ -1,0 +1,6 @@
+contig_5	UniRef90_UPI00111816BD	100	71	1.73e-40	141	UniRef90_UPI00111816BD hypothetical protein n=19 Tax=Gammaproteobacteria TaxID=1236 RepID=UPI00111816BD
+contig_7	UniRef90_UPI003EE23D64	100	35	7.84e-15	75.1	UniRef90_UPI003EE23D64 hypothetical protein n=1 Tax=Escherichia coli TaxID=562 RepID=UPI003EE23D64
+contig_1	UniRef90_UPI000716D1EF	98.6	6925	0.0	12172	UniRef90_UPI000716D1EF BapA-related adhesin SiiEA n=8 Tax=Escherichia TaxID=561 RepID=UPI000716D1EF
+contig_2	UniRef90_UPI00164F482F	98.2	2255	0.0	4355	UniRef90_UPI00164F482F N-6 DNA methylase n=26 Tax=Enterobacteriaceae TaxID=543 RepID=UPI00164F482F
+contig_9	UniRef90_A0A809T0H2	99.2	1706	0.0	3217	UniRef90_A0A809T0H2 Conjugal transfer protein TraI n=1 Tax=Escherichia coli TaxID=562 RepID=A0A809T0H2_ECOLX
+contig_6	UniRef90_A0A6G2B589	100	295	6.07e-206	611	UniRef90_A0A6G2B589 Plasmid replication protein (Fragment) n=150 Tax=Bacteria TaxID=2 RepID=A0A6G2B589_ECOLX

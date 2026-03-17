@@ -1,0 +1,6 @@
+contig_3	UniRef90_A0ABU5NT73	89.7	911	0.0	1324	UniRef90_A0ABU5NT73 Phage tail tape measure protein n=4 Tax=Lysinibacillus TaxID=400634 RepID=A0ABU5NT73_9BACI
+contig_2	UniRef90_A0A2X0Z5P5	98.5	1697	0.0	3263	UniRef90_A0A2X0Z5P5 DUF4132 domain-containing protein n=36 Tax=Lysinibacillus TaxID=400634 RepID=A0A2X0Z5P5_9BACI
+contig_4	UniRef90_A0A2X1BAT8	99.2	1056	0.0	2098	UniRef90_A0A2X1BAT8 UvrABC system protein A n=54 Tax=Lysinibacillus TaxID=400634 RepID=A0A2X1BAT8_9BACI
+contig_5	UniRef90_A0A2X1A4I0	99.2	1711	0.0	3342	UniRef90_A0A2X1A4I0 histidine kinase n=49 Tax=Lysinibacillus TaxID=400634 RepID=A0A2X1A4I0_9BACI
+contig_7	UniRef90_P0A4K7	99.8	458	1.51e-280	860	UniRef90_P0A4K7 Tetracycline resistance protein n=407 Tax=Bacteria TaxID=2 RepID=TCR_BACCE
+contig_6	UniRef90_UPI0034E4123D	90.9	341	7.43e-190	595	UniRef90_UPI0034E4123D hypothetical protein n=32 Tax=Bacilli TaxID=91061 RepID=UPI0034E4123D
