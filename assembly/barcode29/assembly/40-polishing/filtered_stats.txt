@@ -1,6 +1,0 @@
-#seq_name	length	coverage
-contig_1	4676995	118
-contig_3	117185	82
-contig_4	15458	3
-contig_5	9135	389
-contig_6	79098	163
