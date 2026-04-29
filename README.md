@@ -11,7 +11,7 @@ This README provides comprehensive information about a practical training course
 - **Ezechiel Bionimian TIBIRI** (WAVE)
 - **Edith NIKIEMA** (INERA)
 - **Faizatou SORGHO** (IRSS/URCN)
-
+- **W. Christelle NADEMBEGA** (UJKZ/LABIOGENE)
 ## Objectives
 The primary aim of this tutored project is to provide hands-on training in bioinformatics techniques and applications, focusing on genomic data analysis and interpretation. Participants will engage in practical exercises, collaborative projects, and discussions led by the tutors.
 
@@ -27,6 +27,7 @@ For further inquiries or information about the project, please contact the tutor
 - **Ezechiel Bionimian TIBIRI** [ezechiel.tibiri@wave-center.org]
 - **Marguerite Edith M. NIKIEMA** [edith.nikiema@ujkz.bf]
 - **Faizatou SORGHO** [sorghofaiza@gmail.com]
+- **W. Christelle NADEMBEGA** [wendyamnadembega@gmail.com]
 - **Nènè Sthella KY** [kynenepharm@gmail.com]
 
 ## Project theme
