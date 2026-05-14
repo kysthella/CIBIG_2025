@@ -155,7 +155,7 @@ sbatch seqkit_script.sh
 * Generating Seqkit summary table
 [Access seqkit_graph.py](/scripts/seqkit_graph.py)
 
-```bash
+```python
 python3 << EOF
 import os
 import glob
@@ -203,7 +203,10 @@ with open(output_file, 'w') as fout:
 print(f"Terminé. Tableau disponible ici : {output_file}")
 EOF             
 ```
-
+Run the script          
+```python  
+python3 seqkit_graph.py
+```
 
 #### 2.2. NanoPlot QC
 High-resolution quality control visualization to evaluate read length vs. read quality (Q-score) and identify potential sequencing biases.
@@ -253,7 +256,7 @@ rsync -avz login@160.120.108.164:/projects/AMRKY/nanoplot_qc ~/internship/nanopl
 ```
 
 * Vizualisation of the nanoplot scatterplot
-```bash
+```python
 #!/usr/bin/env python3
 
 import pandas as pd
@@ -330,7 +333,7 @@ print("\nSuccès ! Graphique généré : nanoplot_final_complet.png")
 plt.show()
 ```
 Run the script
-```bash
+```python
 python3 viz_final_nanoplot.py
 ```
 ### 3. Genome Assembly
